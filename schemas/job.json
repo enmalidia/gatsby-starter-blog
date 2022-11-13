@@ -1,0 +1,52 @@
+{
+  "Main": {
+    "job_image": {
+      "type": "Image",
+      "config": {
+        "constraint": {
+          "width": 200,
+          "height": 200
+        },
+        "thumbnails": [
+          {
+            "name": "mobile",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "label": "Job image"
+      }
+    },
+    "uid": {
+      "type": "UID",
+      "config": {
+        "label": "id",
+        "placeholder": "id"
+      }
+    },
+    "job_title": {
+      "type": "StructuredText",
+      "config": {
+        "single": "heading2,heading3,heading4,heading5,heading6",
+        "label": "job title",
+        "placeholder": "Job title"
+      }
+    },
+    "working_hours": {
+      "type": "StructuredText",
+      "config": {
+        "single": "heading1,heading2,heading4,heading5,heading6",
+        "label": "Working hours",
+        "placeholder": "Working hours"
+      }
+    },
+    "position_requirements": {
+      "type": "StructuredText",
+      "config": {
+        "single": "heading1,heading2,heading3,heading4,heading5",
+        "label": "Position requirements",
+        "placeholder": "Position requirements"
+      }
+    }
+  }
+}

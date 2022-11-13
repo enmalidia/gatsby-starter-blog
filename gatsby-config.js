@@ -3,6 +3,9 @@
  *
  * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
  */
+require("dotenv").config({
+  path: ".env",
+})
 
 /**
  * @type {import('gatsby').GatsbyConfig}
@@ -22,20 +25,6 @@ module.exports = {
   },
   plugins: [
     `gatsby-plugin-image`,
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
-      },
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `images`,
-        path: `${__dirname}/src/images`,
-      },
-    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -105,6 +94,17 @@ module.exports = {
             title: "Gatsby Starter Blog RSS Feed",
           },
         ],
+      },
+    },
+    {
+      resolve: "gatsby-source-prismic",
+      options: {
+        repositoryName: "enmalidia",
+        accessToken: process.env.PRISMIC_ACCESS_TOKEN,
+        customTypesApiToken: process.env.PRISMIC_CUSTOM_TYPES_API_TOKEN,
+        schemas: {
+          job: require("./schemas/job.json"),
+        },
       },
     },
     {
