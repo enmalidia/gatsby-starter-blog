@@ -1,0 +1,75 @@
+{
+  "header": "Equipo",
+  "title": "Creemos en la vocación al servicio, la honradez, la responsabilidad y el trato con calor humano, como los valores fundamentales de nuestros profesionales de la salud.",
+  "teams": [
+    {
+      "name": "Gabinete ejecutivo",
+      "id": "1",
+      "workers": [
+        {
+          "name": "Lcda. Itza Soto",
+          "job": "Directora ejecutiva",
+          "img": "eje1",
+          "emails": ["isoto@ashfordhospital.com"],
+          "id": "1"
+        },
+        {
+          "name": "Dr. Rafael González Rodríguez",
+          "job": "Director médico",
+          "img": "eje2",
+          "emails": ["rgonzalez@ashfordhospital.com"],
+          "id": "2"
+        },
+        {
+          "name": "CPA Carlos Fuentes López",
+          "job": "CFO",
+          "img": "eje3",
+          "emails": ["cfuentes@ashfordhospital.com"],
+          "id": "3"
+        },
+        {
+          "name": "Lcdo. Héctor Ortiz Arroyo",
+          "job": "Director asociado de servicios OPD",
+          "img": "eje4",
+          "emails": ["hortiz@ashfordhospital.com"],
+          "id": "4"
+        },
+        {
+          "name": "Lcda. Blanca Santana",
+          "job": "Directora asociada de cumplimiento, riesgo y calidad",
+          "img": "eje5",
+          "emails": ["bsantana@ashfordhospital.com"],
+          "id": "5"
+        },
+        {
+          "name": "Sra. Irma Carrillo",
+          "job": "Directora de recursos humanos",
+          "img": "eje6",
+          "emails": ["icarrillo@ashfordhospital.com"],
+          "id": "6"
+        },
+        {
+          "name": "Sra. Dorimar Morales",
+          "job": "Directora asociada de transformación operacional y dirección de proyectos",
+          "img": "eje7",
+          "emails": ["dmorales@ashfordhospital.com"],
+          "id": "7"
+        },
+        {
+          "name": "Sra. Bernice Pérez",
+          "job": "Directora de los servicios de enfermería",
+          "img": "eje8",
+          "emails": ["bperez@ashfordhospital.com"],
+          "id": "8"
+        },
+        {
+          "name": "Lcdo. Luis Fuentes Vázquez",
+          "job": "Asesor legal interno",
+          "img": "eje10",
+          "emails": ["lfuentes@ashfordhospital.com "],
+          "id": "10"
+        }
+      ]
+    }
+  ]
+}

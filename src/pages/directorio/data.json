@@ -1,0 +1,1399 @@
+{
+  "header": "Directorios",
+  "title": "Directorio médico",
+  "description": "Conoce a nuestro equipo de profesionales médico",
+  "details": "En el Hospital Ashford contamos con un diverso equipo de profesionales médicos dedicados al bienestar de cada uno de nuestros pacientes. El directorio médico del Hospital le proveerá información de contacto para cada uno de los especialistas. ¡Estamos para servirles!",
+
+  "keys": [
+    {
+      "key": "Todas",
+      "id": "All"
+    },
+    {
+      "key": "A",
+      "id": "A"
+    },
+    {
+      "key": "B",
+      "id": "B"
+    },
+    {
+      "key": "C",
+      "id": "C"
+    },
+    {
+      "key": "D",
+      "id": "D"
+    },
+    {
+      "key": "E",
+      "id": "E"
+    },
+    {
+      "key": "F",
+      "id": "F"
+    },
+    {
+      "key": "H",
+      "id": "H"
+    },
+    {
+      "key": "I",
+      "id": "I"
+    },
+    {
+      "key": "L",
+      "id": "L"
+    },
+    {
+      "key": "O",
+      "id": "O"
+    },
+    {
+      "key": "P",
+      "id": "P"
+    },
+    {
+      "key": "R",
+      "id": "R"
+    },
+    {
+      "key": "S",
+      "id": "S"
+    },
+    {
+      "key": "T",
+      "id": "T"
+    },
+    {
+      "key": "U",
+      "id": "U"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Todas",
+      "id": "All"
+    },
+    {
+      "name": "Acupuntura",
+      "id": "catap"
+    },
+    {
+      "name": "Cardiología",
+      "id": "catc"
+    },
+    {
+      "name": "Cirugía colorrectal",
+      "id": "catcc"
+    },
+    {
+      "name": "Cirugía general",
+      "id": "catcg"
+    },
+    {
+      "name": "Cirugía de espalda ",
+      "id": "catces"
+    },
+    {
+      "name": "Cirugía de mano (Ortopédica)",
+      "id": "catcmo"
+    },
+    {
+      "name": "Cirugía de seno",
+      "id": "catcs"
+    },
+
+    {
+      "name": "Cirugía endocrina",
+      "id": "catce"
+    },
+
+    {
+      "name": "Cirugía general pediátrica",
+      "id": "catcgp"
+    },
+    {
+      "name": "Cirugía general y oncológica",
+      "id": "catcgo"
+    },
+    {
+      "name": "Cirugía plástica",
+      "id": "catcp"
+    },
+    {
+      "name": "Endocrinologia",
+      "id": "cate"
+    },
+    {
+      "name": "Gastroenterología",
+      "id": "catge"
+    },
+    {
+      "name": "Gastroenterología pediátrica",
+      "id": "catgep"
+    },
+    {
+      "name": "Ginecología",
+      "id": "catg"
+    },
+    {
+      "name": "Ginecología oncológica",
+      "id": "catgo"
+    },
+    {
+      "name": "Infectología",
+      "id": "catci"
+    },
+    {
+      "name": "Inmunología",
+      "id": "catim"
+    },
+    {
+      "name": "Medicina física, deportiva y rehabilitación",
+      "id": "catmfdr"
+    },
+    {
+      "name": "Medicina interna",
+      "id": "catmi"
+    },
+    {
+      "name": "Medicina nuclear",
+      "id": "catmn"
+    },
+    {
+      "name": "Nefrología",
+      "id": "catgnf"
+    },
+    {
+      "name": "Neumología",
+      "id": "catgnm"
+    },
+    {
+      "name": "Neurocirugía",
+      "id": "catnc"
+    },
+    {
+      "name": "Neurología",
+      "id": "catna"
+    },
+    {
+      "name": "Oncología",
+      "id": "catoo"
+    },
+    {
+      "name": "Ortopedia",
+      "id": "cato"
+    },
+    {
+      "name": "Otorrinolaringologia",
+      "id": "catol"
+    },
+    {
+      "name": "Pediatría",
+      "id": "catp"
+    },
+    {
+      "name": "Perinatología",
+      "id": "catpn"
+    },
+    {
+      "name": "Programa de apoyo emocional",
+      "id": "catpae"
+    },
+    {
+      "name": "Psiquiatría",
+      "id": "catps"
+    },
+    {
+      "name": "Retinología",
+      "id": "catgrt"
+    },
+    {
+      "name": "Retinología y oftalmología pediátrica",
+      "id": "catrop"
+    },
+    {
+      "name": "Uroginecología",
+      "id": "catgug"
+    },
+    {
+      "name": "Urologia",
+      "id": "catu"
+    }
+  ],
+  "cards": [
+    {
+      "title": "José Acevedo Vallés",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "Abby Agosto Ventura",
+      "category": "Ginecología",
+      "phone": "(787) 746-2880",
+      "value": "+1787-746-2880",
+      "catId": "catogg"
+    },
+    {
+      "title": "Laia Allende Asparo",
+      "category": "Cirugía de seno",
+      "phone": "(787) 999-8475",
+      "value": "+1787-999-8475",
+      "catId": "catcs"
+    },
+    {
+      "title": "Carlos Álvarez Allende",
+      "category": "Cirugía general pediátrica",
+      "phone": "(787) 721-2250",
+      "value": "+1787-721-2250",
+      "catId": "catcgp catcg"
+    },
+    {
+      "title": "Rolando Alvarado Meléndez",
+      "category": "Ginecología",
+      "phone": "(787) 266-7261",
+      "value": "+1787-266-7261",
+      "catId": "catg"
+    },
+    {
+      "title": "Roberto Annexy González",
+      "category": "Medicina nuclear",
+      "phone": "(787) 724-3500",
+      "value": "+1787-724-3500",
+      "catId": "catmn"
+    },
+    {
+      "title": "Manuel Badillo Collazo",
+      "category": "Ortopedia",
+      "phone": "(787) 774-0692",
+      "value": "+1787-774-0692",
+      "catId": "cato"
+    },
+    {
+      "title": "Luis Báez Vallecillo",
+      "category": "Oncología",
+      "phone": "(787) 274-3388",
+      "value": "+1787-274-3388",
+      "catId": "catoo"
+    },
+    {
+      "title": "Rafael Bermúdez Rivera",
+      "category": "Medicina interna",
+      "phone": "(787) 721-7973",
+      "value": "+1787-721-7973",
+      "catId": "catmi"
+    },
+    {
+      "title": "Juan Bonano Benítez",
+      "category": "Ginecología",
+      "phone": "(787) 757-0820",
+      "value": "+1787-757-0820",
+      "catId": "catg"
+    },
+    {
+      "title": "Luis Bonilla González",
+      "category": "Infectología",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catci"
+    },
+    {
+      "title": "Sheila Calderón Bordonada",
+      "category": "Gastroenterología pediátrica",
+      "phone": "(787) 721-2250",
+      "value": "+1787-721-2250",
+      "catId": "catgep catge"
+    },
+    {
+      "title": "Alexandra Campis Valentín",
+      "category": "Medicina interna",
+      "phone": "(787) 721-7973",
+      "value": "+1787-721-7973",
+      "catId": "catmi"
+    },
+    {
+      "title": "Ricardo Canals Morales",
+      "category": "Ortopedia",
+      "phone": "(787) 276-0692",
+      "value": "+1787-276-0692",
+      "catId": "cato"
+    },
+    {
+      "title": "Roberto Canto Martí",
+      "category": "Urología",
+      "phone": "(787) 725-6278",
+      "value": "+1787-725-6278",
+      "catId": "catu"
+    },
+    {
+      "title": "Eduardo Canto Repetti",
+      "category": "Urología",
+      "phone": "(787) 725-6278",
+      "value": "+1787-725-6278",
+      "catId": "catu"
+    },
+    {
+      "title": "Anibal Carlo García",
+      "category": "Urología",
+      "phone": "(787) 763-4106",
+      "value": "+1787-763-4106",
+      "catId": "catu"
+    },
+    {
+      "title": "María Carro Jiménez",
+      "category": "Ginecología",
+      "phone": "(787) 746-2880",
+      "value": "+1787-746-2880",
+      "catId": "catg"
+    },
+    {
+      "title": "Juan Castañer Barcelo",
+      "category": "Ginecología y perinatología",
+      "phone": "(787) 722-1104",
+      "value": "+1787-722-1104",
+      "catId": "catg catpn"
+    },
+    {
+      "title": "Eduardo Chinea Amadeo",
+      "category": "Cirugía general",
+      "phone": "(787) 721-2324",
+      "value": "+1787-721-2324",
+      "catId": "catcg"
+    },
+    {
+      "title": "Carla Cirino Camacho",
+      "category": "Ginecología",
+      "phone": "(787) 721-1541",
+      "value": "+1787-721-1541",
+      "catId": "catg"
+    },
+    {
+      "title": "Leah Cobb",
+      "category": "Ortopedia pediátrica",
+      "phone": "(787) 222-5262",
+      "value": "+1787-222-5262",
+      "catId": "cato"
+    },
+    {
+      "title": "Ramón Collazo Bigles",
+      "category": "Ortopedia",
+      "phone": "(787) 729-0909",
+      "value": "+1787-729-0909",
+      "catId": "cato"
+    },
+    {
+      "title": "Nydia Colón Irizarry",
+      "category": "Pediatría",
+      "phone": "(787) 725-9708",
+      "value": "+1787-725-9708",
+      "catId": "catp"
+    },
+    {
+      "title": "Owen Connelly Montesinos",
+      "category": "Ginecología",
+      "phone": "(787) 282-6675",
+      "value": "+1787-282-6675",
+      "catId": "catg"
+    },
+    {
+      "title": "Richard Cortes Flores",
+      "category": "Pediatría",
+      "phone": "(787) 790-7393",
+      "value": "+1787-790-7393",
+      "catId": "catp"
+    },
+    {
+      "title": "Gustavo Cruzado Ramos",
+      "category": "Ginecología",
+      "phone": "(787) 722-4401",
+      "value": "+1787-722-4401",
+      "catId": "catg"
+    },
+    {
+      "title": "Marianela Cuadrado Pereira",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Charles Cuff Negroni",
+      "category": "Cirugía general",
+      "phone": "(787) 721-3277",
+      "value": "+1787-721-3277",
+      "catId": "catcg"
+    },
+    {
+      "title": "Miguel De Jesús Cabrera",
+      "category": "Pediatría",
+      "phone": "(787) 640-7111",
+      "value": "+1787-640-7111",
+      "catId": "catp"
+    },
+    {
+      "title": "Demy De Jesús Hernández",
+      "category": "Programa de apoyo emocional",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catpae"
+    },
+    {
+      "title": "Norma Delgado Buther",
+      "category": "Neumología",
+      "phone": "(787) 721-6883",
+      "value": "+1787-721-6883",
+      "catId": "catgnm"
+    },
+    {
+      "title": "Aura Delgado Cifuentes",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 520-6112",
+      "value": "+1787-520-6112",
+      "catId": "catcc"
+    },
+    {
+      "title": "Juan Díaz Hernández",
+      "category": "Cirugía general",
+      "phone": "(787) 596-7878",
+      "value": "+1787-596-7878",
+      "catId": "catcg"
+    },
+    {
+      "title": "Luis Díaz Maisonet",
+      "category": "Medicina interna",
+      "phone": "(787) 763-5555",
+      "value": "+1787-763-5555",
+      "catId": "catmi"
+    },
+    {
+      "title": "Karen Díaz Pérez",
+      "category": "Pediatría",
+      "phone": "(787) 725-9708",
+      "value": "+1787-725-9708",
+      "catId": "catp"
+    },
+    {
+      "title": "Rodrigo Díaz Velasco",
+      "category": "Ginecología",
+      "phone": "(787) 753-7406",
+      "value": "+1787-753-7406",
+      "catId": "catg"
+    },
+    {
+      "title": "José Echenique Arana",
+      "category": "Ortopedia",
+      "phone": "(787) 771-1000",
+      "value": "+1787-771-1000",
+      "catId": "cato"
+    },
+    {
+      "title": "Pedro Escobar Rodríguez",
+      "category": "Ginecología oncológica",
+      "phone": "(787) 727-1000",
+      "value": "+1787-727-1000",
+      "catId": "catg catoo catgo"
+    },
+    {
+      "title": "Manuel Figueroa González",
+      "category": "Nefrología",
+      "phone": "(787) 765-3300",
+      "value": "+1787-765-3300",
+      "catId": "catgnf"
+    },
+    {
+      "title": "Víctor Flores Chéverez",
+      "category": "Nefrología",
+      "phone": "(787) 721-7560",
+      "value": "+1787-721-7560",
+      "catId": "catnf"
+    },
+    {
+      "title": "Ramón Flores Ríos",
+      "category": "Neumología",
+      "phone": "(787) 999-0440",
+      "value": "+1787-999-0440",
+      "catId": "catgnm"
+    },
+    {
+      "title": "Ángel Fraguada Reyes",
+      "category": "Ginecología",
+      "phone": "(787) 397-6142",
+      "value": "+1787-397-6142",
+      "catId": "catg"
+    },
+    {
+      "title": "Raúl Franceschi Conde",
+      "category": "Retinología",
+      "phone": "(787) 724-8981",
+      "value": "+1787-724-8981",
+      "catId": "catgrt"
+    },
+    {
+      "title": "Rafael Franjul Juliá",
+      "category": "Neumología",
+      "phone": "(787) 759-3033",
+      "value": "+1787-759-3033",
+      "catId": "catgnm"
+    },
+    {
+      "title": "José Fumero Pérez",
+      "category": "Ortopedia",
+      "phone": "(787) 725-3555",
+      "value": "+1787-725-3555",
+      "catId": "cato"
+    },
+    {
+      "title": "Pedro García Otero",
+      "category": "Medicina interna",
+      "phone": "(787) 723-9626",
+      "value": "+1787-723-9626",
+      "catId": "catmi"
+    },
+    {
+      "title": "José Gratacos Díaz",
+      "category": "Ginecología y perinatología",
+      "phone": "(787) 727-5252",
+      "value": "+1787-727-5252",
+      "catId": "catg catpn"
+    },
+    {
+      "title": "Raúl Hernández Chuán",
+      "category": "Medicina interna",
+      "phone": "(787) 725-4945",
+      "value": "+1787-725-4945",
+      "catId": "catmi"
+    },
+    {
+      "title": "Gabriel Hernández Martín",
+      "category": "Otorrinolaringología y neuro-otología",
+      "phone": "(787) 721-6380",
+      "value": "+1787-721-6380",
+      "catId": "catol"
+    },
+    {
+      "title": "Dalia Hernández Medina",
+      "category": "Ginecología",
+      "phone": "",
+      "value": "+1",
+      "catId": "catg"
+    },
+    {
+      "title": "Stephen Higuera Hernández",
+      "category": "Cirugía plástica",
+      "phone": "(787) 998-4000",
+      "value": "+1787-998-4000",
+      "catId": "catcp"
+    },
+    {
+      "title": "Luis Jiménez Berroa",
+      "category": "Medicina interna",
+      "phone": "(787) 721-2324",
+      "value": "+1787-721-2324",
+      "catId": "catmi"
+    },
+    {
+      "title": "Ricky Jiménez Carlo",
+      "category": "Gastroenterología",
+      "phone": "(787) 977-5011",
+      "value": "+1787-977-5011",
+      "catId": "catge"
+    },
+    {
+      "title": "Carlos Jiménez Marchán",
+      "category": "Medicina nuclear",
+      "phone": "(787) 724-3501",
+      "value": "+1787-724-3501",
+      "catId": "catmn"
+    },
+    {
+      "title": "Jimmy Juliá Martínez",
+      "category": "Uroginecología",
+      "phone": "(787) 963-0728",
+      "value": "+1787-963-0728",
+      "catId": "catg catgug"
+    },
+    {
+      "title": "Veronica Key Oyola",
+      "category": "Acupuntura",
+      "phone": "(787) 763-9005",
+      "value": "+1787-763-9005",
+      "catId": "catap"
+    },
+    {
+      "title": "Héctor León Figueroa",
+      "category": "Oncología",
+      "phone": "(787) 706-4466",
+      "value": "+1787-706-4466",
+      "catId": "catoo"
+    },
+    {
+      "title": "Nicolás López Acevedo",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 724-9595",
+      "value": "+1787-724-9595",
+      "catId": "catcc"
+    },
+    {
+      "title": "Juan López de Victoria",
+      "category": "Cirugía general",
+      "phone": "(787) 721-2250",
+      "value": "+1787-721-2250",
+      "catId": "catcg"
+    },
+    {
+      "title": "Francisco López González",
+      "category": "Ortopedia",
+      "phone": "(787) 758-7270",
+      "value": "+1787-758-7270",
+      "catId": "cato"
+    },
+    {
+      "title": "Vicente López Hidalgo",
+      "category": "Otorrinolaringología y neuro-otología",
+      "phone": "(787) 751-5935",
+      "value": "+1787-751-5935",
+      "catId": "catol"
+    },
+    {
+      "title": "Ángel López Ruiz",
+      "category": "Cirugía general",
+      "phone": "(787) 722-6795",
+      "value": "+1787-722-6795",
+      "catId": "catcg"
+    },
+    {
+      "title": "Ruth Maisonet Pérez",
+      "category": "Ginecología",
+      "phone": "(787) 721-1541",
+      "value": "+1787-721-1541",
+      "catId": "catg"
+    },
+    {
+      "title": "Raúl Márquez Sarraga",
+      "category": "Cirugía general",
+      "phone": "(787) 725-6562",
+      "value": "+1787-725-6562",
+      "catId": "catcg"
+    },
+    {
+      "title": "Carlos Marrero Arroyo",
+      "category": "Ginecología",
+      "phone": "(787) 758-1910",
+      "value": "+1787-758-1910",
+      "catId": "catg"
+    },
+    {
+      "title": "Sylmarie Marrero Martínez",
+      "category": "Medicina interna",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catmi"
+    },
+    {
+      "title": "Luis Marrero Pérez",
+      "category": "Ortopedia",
+      "phone": "(787) 908-3828",
+      "value": "+1787-908-3828",
+      "catId": "cato"
+    },
+    {
+      "title": "Carlos Marrero Vázquez",
+      "category": "Ginecología",
+      "phone": "(787) 766-2929",
+      "value": "+1787-766-2929",
+      "catId": "catg"
+    },
+    {
+      "title": "Yaiza Martínez Ortiz",
+      "category": "Gastroenterología",
+      "phone": "(787) 249-9560",
+      "value": "+1787-249-9560",
+      "catId": "catge"
+    },
+    {
+      "title": "Monica Martínez Rivera",
+      "category": "Ginecología",
+      "phone": "(787) 982-0088",
+      "value": "+1787-982-0088",
+      "catId": "catg"
+    },
+    {
+      "title": "María Matta González",
+      "category": "Ginecología",
+      "phone": "(787) 721-5495",
+      "value": "+1787-721-5495",
+      "catId": "catg"
+    },
+    {
+      "title": "Manuel Medina",
+      "category": "Cirugía de mano (Plástica)",
+      "phone": "(787) 268-3191",
+      "value": "+1787-268-3191",
+      "catId": "catcp"
+    },
+    {
+      "title": "William Méndez Latalladi",
+      "category": "Cirugía endocrina",
+      "phone": "(787) 331-6269",
+      "value": "+1787-331-6269",
+      "catId": "catce"
+    },
+
+    {
+      "title": "Keimari Méndez Martínez",
+      "category": "Ginecología",
+      "phone": "(787) 758-7910",
+      "value": "+1787-758-7910",
+      "catId": "catg"
+    },
+    {
+      "title": "Josué Mercado Crespo",
+      "category": "Cardiología",
+      "phone": "(787) 294-9862",
+      "value": "+1787-294-9862",
+      "catId": "catc"
+    },
+    {
+      "title": "Francisco Merced Ortiz",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "East Mere Chapuseaux",
+      "category": "Ginecología",
+      "phone": "(787) 767-2131",
+      "value": "+1787-767-2131",
+      "catId": "catg"
+    },
+    {
+      "title": "Raúl Morales Borges",
+      "category": "Oncología",
+      "phone": "(787) 722-0412",
+      "value": "+1787-722-0412",
+      "catId": "catoo"
+    },
+    {
+      "title": "Rafael Morales Solís",
+      "category": "Gastroenterología",
+      "phone": "(787) 787-2761",
+      "value": "+1787-787-2761",
+      "catId": "catge"
+    },
+    {
+      "title": "José Muñoz Benedicto",
+      "category": "Medicina interna",
+      "phone": "(939) 399-3494",
+      "value": "+1939-399-3494",
+      "catId": "catmi"
+    },
+    {
+      "title": "Ernesto Muñoz Vilches",
+      "category": "Medicina interna",
+      "phone": "(787) 721-4836",
+      "value": "+1787-721-4836",
+      "catId": "catmi"
+    },
+    {
+      "title": "Gisela Murray Ortiz",
+      "category": "Neurocirugía",
+      "phone": "(787) 405-5987",
+      "value": "+1787-405-5987",
+      "catId": "catnc"
+    },
+    {
+      "title": "Ángel Narváez Morell",
+      "category": "Psiquiatría",
+      "phone": "(787) 685-3033",
+      "value": "+1787-685-3033",
+      "catId": "catps"
+    },
+    {
+      "title": "Ingrid Negrón Valentín",
+      "category": "Ortopedia",
+      "phone": "(787) 721-0021",
+      "value": "+1787-721-0021",
+      "catId": "cato"
+    },
+
+    {
+      "title": "Jorge Noya Monagas",
+      "category": "Cirugía de seno",
+      "phone": "(787) 723-2168",
+      "value": "+1787-723-2168",
+      "catId": "catcs"
+    },
+    {
+      "title": "Aileen Ojeda Rodríguez",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Carlos Olivares Almanzar",
+      "category": "Ginecología",
+      "phone": "(787) 722-1104",
+      "value": "+1787-722-1104",
+      "catId": "catg"
+    },
+    {
+      "title": "Roberto Olivares Márquez",
+      "category": "Ginecología",
+      "phone": "(787) 753-7406",
+      "value": "+1787-753-7406",
+      "catId": "catg"
+    },
+    {
+      "title": "Vanessa Olivo Echavarry",
+      "category": "Infectología",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catci"
+    },
+    {
+      "title": "Antonio L. Orraca Gotay",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "Arturo Ortiz Padua",
+      "category": "Neurología",
+      "phone": "(787) 725-8533",
+      "value": "+1787-725-8533",
+      "catId": "catna"
+    },
+    {
+      "title": "Eva Pamías-Portalatín",
+      "category": "Neurocirugía",
+      "phone": "(787) 402-2405",
+      "value": "+1787-402-2405",
+      "catId": "catnc"
+    },
+    {
+      "title": "Nannette Parés Iturrino",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Annette Pascual Marrero",
+      "category": "Cirugía endocrina",
+      "phone": "(787) 721-6380",
+      "value": "+1787-721-6380",
+      "catId": "catce"
+    },
+
+    {
+      "title": "Jeamarie Pascual Marrero",
+      "category": "Otorrinolaringología y neuro-otología",
+      "phone": "(787) 721-6380",
+      "value": "+1787-721-6380",
+      "catId": "catol"
+    },
+    {
+      "title": "Mario Paulino Payano",
+      "category": "Pediatría",
+      "phone": "(787) 633-9999",
+      "value": "+1787-633-9999",
+      "catId": "catp"
+    },
+    {
+      "title": "Héctor Pérez Arroyo",
+      "category": "Gastroenterología",
+      "phone": "(787) 977-5011",
+      "value": "+1787-977-5011",
+      "catId": "catge"
+    },
+    {
+      "title": "Annette Pérez Delboy",
+      "category": "Perinatología",
+      "phone": "(787) 474-4800",
+      "value": "+1787-474-4800",
+      "catId": "catpn"
+    },
+    {
+      "title": "Reynerio Pérez Ramírez",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "Olga Pereira Díaz",
+      "category": "Ginecología",
+      "phone": "(787) 667-9729",
+      "value": "+1787-667-9729",
+      "catId": "catg"
+    },
+    {
+      "title": "Carmen Pimentel Torres",
+      "category": "Inmunología",
+      "phone": "(787) 721-6380",
+      "value": "+1787-721-6380",
+      "catId": "catim"
+    },
+    {
+      "title": "Yvette Piovanetti Keelan",
+      "category": "Pediatría",
+      "phone": "(787) 753-7383",
+      "value": "+1787-753-7383",
+      "catId": "catp"
+    },
+    {
+      "title": "Antonio Pou Martínez",
+      "category": "Ginecología",
+      "phone": "(787) 722-1104",
+      "value": "+1787-722-1104",
+      "catId": "catg"
+    },
+    {
+      "title": "Marielsa Rabelo Acevedo",
+      "category": "Endocrinología",
+      "phone": "(787) 999-8474",
+      "value": "+1787-999-8474",
+      "catId": "cate"
+    },
+    {
+      "title": "José Ramírez González",
+      "category": "Pediatría",
+      "phone": "(787) 963-0737",
+      "value": "+1787-963-0737",
+      "catId": "catp"
+    },
+    {
+      "title": "Efraín Ramírez Torres",
+      "category": "Ginecología",
+      "phone": "(787) 722-2424",
+      "value": "+1787-722-2424",
+      "catId": "catg"
+    },
+    {
+      "title": "Evelyn Ramírez Zapata",
+      "category": "Neumología",
+      "phone": "(787) 759-3033",
+      "value": "+1787-759-3033",
+      "catId": "catgnm"
+    },
+    {
+      "title": "Esteban Ramos Álvarez",
+      "category": "Medicina interna",
+      "phone": "(787) 294-5372",
+      "value": "+1787-294-5372",
+      "catId": "catmi"
+    },
+    {
+      "title": "Luis Javier Ramos Díaz",
+      "category": "Medicina interna",
+      "phone": "(787) 641-0555",
+      "value": "+1787-641-0555",
+      "catId": "catmi"
+    },
+    {
+      "title": "Mario Ramos Esclavón",
+      "category": "Neumología",
+      "phone": "(787) 756-0030",
+      "value": "+1787-756-0030",
+      "catId": "catgnm"
+    },
+    {
+      "title": "Cristina Ramos Romey",
+      "category": "Inmunología",
+      "phone": "(787) 721-6380",
+      "value": "+1787-721-6380",
+      "catId": "catim"
+    },
+    {
+      "title": "Wanda Ramos Vélez",
+      "category": "Medicina interna",
+      "phone": "(787) 722-0445",
+      "value": "+1787-722-0445",
+      "catId": "catmi"
+    },
+    {
+      "title": "José Reyes Torres",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 724-9595",
+      "value": "+1787-724-9595",
+      "catId": "catcc"
+    },
+    {
+      "title": "Ricardo Riefkohl Cuadra",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Cedric Rivera Bolomey",
+      "category": "Ginecología",
+      "phone": "(787) 724-3900",
+      "value": "+1787-724-3900",
+      "catId": "catg"
+    },
+    {
+      "title": "José Rivera Guzmán",
+      "category": "Medicina interna",
+      "phone": "(787) 721-2324",
+      "value": "+1787-721-2324",
+      "catId": "catmi"
+    },
+    {
+      "title": "José Rivera Nieves",
+      "category": "Nefrología",
+      "phone": "(787) 722-6350",
+      "value": "+1787-722-6350",
+      "catId": "catgnf"
+    },
+    {
+      "title": "Hilda Rivera Quiñones",
+      "category": "Oncología",
+      "phone": "(787) 725-6356",
+      "value": "+1787-725-6356",
+      "catId": "catoo"
+    },
+    {
+      "title": "Elvin Rivera Zayas",
+      "category": "Cardiología",
+      "phone": "(787) 725-2964",
+      "value": "+1787-725-2964",
+      "catId": "catc"
+    },
+    {
+      "title": "Jesús Rodríguez Arroyo",
+      "category": "Ginecología oncológica",
+      "phone": "(787) 250-0276",
+      "value": "+1787-250-0276",
+      "catId": "catg catoo catgo"
+    },
+    {
+      "title": "José Rodríguez Escudero",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "Nicole Rodríguez Guilloty",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 294-3500",
+      "value": "+1787-294-3500",
+      "catId": "catcc"
+    },
+    {
+      "title": "María Rodríguez Julbe",
+      "category": "Infectología",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catci"
+    },
+    {
+      "title": "Antonio Rodríguez Mimoso",
+      "category": "Ginecología",
+      "phone": "(787) 753-7406",
+      "value": "+1787-753-7406",
+      "catId": "catg"
+    },
+    {
+      "title": "Francisco Rodríguez Pichardo",
+      "category": "Medicina interna",
+      "phone": "(787) 769-2262",
+      "value": "+1787-769-2262",
+      "catId": "catmi"
+    },
+    {
+      "title": "Víctor Rodríguez Rapale",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 724-9595",
+      "value": "+1787-724-9595",
+      "catId": "catcc"
+    },
+    {
+      "title": "Ángel Rodríguez Rivera",
+      "category": "Cirugía general y oncológica",
+      "phone": "(787) 249-9560",
+      "value": "+1787-249-9560",
+      "catId": "catcg catoo catcgo"
+    },
+    {
+      "title": "Jorge Rodríguez Saenz",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Héctor Rosario Reyes",
+      "category": "Ginecología",
+      "phone": "(787) 766-1920",
+      "value": "+1787-766-1920",
+      "catId": "catg"
+    },
+    {
+      "title": "William Ruiz Valle",
+      "category": "Ginecología",
+      "phone": "(787) 278-2393",
+      "value": "+1787-278-2393",
+      "catId": "catg"
+    },
+    {
+      "title": "José Saavedra Belaunde",
+      "category": "Urología",
+      "phone": "(787) 725-6278",
+      "value": "+1787-725-6278",
+      "catId": "catu"
+    },
+    {
+      "title": "Juan Salgado Morales",
+      "category": "Ginecología",
+      "phone": "(787) 982-0088",
+      "value": "+1787-982-0088",
+      "catId": "catg"
+    },
+    {
+      "title": "Jesús Salgueiro Bravo",
+      "category": "Ginecología",
+      "phone": "(787) 653-3456",
+      "value": "+1787-653-3456",
+      "catId": "catg"
+    },
+    {
+      "title": "Jovette Sánchez Cesáreo",
+      "category": "Programa de apoyo emocional",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catpae"
+    },
+    {
+      "title": "Alfredo Sánchez Cruz",
+      "category": "Endocrinología",
+      "phone": "(787) 721-2740",
+      "value": "+1787-721-2740",
+      "catId": "cate"
+    },
+    {
+      "title": "José Santiago",
+      "category": "Cirugía de mano (Ortopédica)",
+      "phone": "(787) 721-5505",
+      "value": "+1787-721-5505",
+      "catId": "cato catcmo"
+    },
+    {
+      "title": "Bartolo Santiago Delgado",
+      "category": "Medicina nuclear",
+      "phone": "(787) 724-3504",
+      "value": "+1787-724-3504",
+      "catId": "catmn"
+    },
+    {
+      "title": "José Santiago Figueroa",
+      "category": "Ortopedia",
+      "phone": "(787) 721-5505",
+      "value": "+1787-721-5505",
+      "catId": "cato"
+    },
+    {
+      "title": "Marcus Santiago Hernández",
+      "category": "Medicina interna",
+      "phone": "(787) 723-6224",
+      "value": "+1787-723-6224",
+      "catId": "catmi"
+    },
+    {
+      "title": "José Santiago Santiago",
+      "category": "Nefrología",
+      "phone": "(787) 765-3300",
+      "value": "+1787-765-3300",
+      "catId": "catgnf"
+    },
+    {
+      "title": "Rafael Sanz Sein",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Alexander Segal Pomales",
+      "category": "Ginecología",
+      "phone": "(787) 753-7557",
+      "value": "+1787-753-7557",
+      "catId": "catg"
+    },
+    {
+      "title": "Nitza Serrano Medina",
+      "category": "Ginecología",
+      "phone": "(787) 999-7620",
+      "value": "+1787-999-7620",
+      "catId": "catg"
+    },
+    {
+      "title": "Mariana Silva García",
+      "category": "Medicina física, deportiva y rehabilitación",
+      "phone": "(787) 722-2915",
+      "value": "+1787-722-2915",
+      "catId": "catmfdr"
+    },
+    {
+      "title": "Janice Soto Morales",
+      "category": "Ginecología",
+      "phone": "",
+      "value": "+1",
+      "catId": "catg"
+    },
+    {
+      "title": "Samuel Suárez Báez",
+      "category": "Neumología",
+      "phone": "(787) 721-6883",
+      "value": "+1787-721-6883",
+      "catId": "catgnm"
+    },
+    {
+      "title": "José Torres Acevedo",
+      "category": "Cardiología",
+      "phone": "(787) 723-5017",
+      "value": "+1787-723-5017",
+      "catId": "catc"
+    },
+    {
+      "title": "Karen Torres González",
+      "category": "Endocrinología",
+      "phone": "(787) 667-9015",
+      "value": "+1787-667-9015",
+      "catId": "cate"
+    },
+    {
+      "title": "Eugenio Toro Torres",
+      "category": "Medicina interna",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catmi"
+    },
+    {
+      "title": "Marla Torres Torres",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 724-9595",
+      "value": "+1787-724-9595",
+      "catId": "catcc"
+    },
+    {
+      "title": "Luis Tous López",
+      "category": "Cirugía colorrectal",
+      "phone": "(787) 724-9595",
+      "value": "+1787-724-9595",
+      "catId": "catcc"
+    },
+    {
+      "title": "Rodolfo Troche Negrón",
+      "category": "Nefrología",
+      "phone": "(787) 765-3300",
+      "value": "+1787-765-3300",
+      "catId": "catgnf"
+    },
+    {
+      "title": "Samuel Valentín Mendoza",
+      "category": "Neumología",
+      "phone": "(787) 721-2160",
+      "value": "+1787-721-2160",
+      "catId": "catgnm"
+    },
+    {
+      "title": "Gustavo Vázquez Hernández",
+      "category": "Ginecología",
+      "phone": "(787) 766-1081",
+      "value": "+1787-766-1081",
+      "catId": "catg"
+    },
+    {
+      "title": "Martha Vázquez Yamil",
+      "category": "Ginecología",
+      "phone": "(787) 721-1541",
+      "value": "+1787-721-1541",
+      "catId": "catg"
+    },
+    {
+      "title": "Daisy Vázquez Dubeau",
+      "category": "Ginecología",
+      "phone": "(787) 766-1920",
+      "value": "+1787-766-1920",
+      "catId": "catg"
+    },
+    {
+      "title": "Karl Vega Lelkes",
+      "category": "Cirugía de espalda",
+      "phone": "(787) 951-3350",
+      "value": "+1787-951-3350",
+      "catId": "catces"
+    },
+    {
+      "title": "Rebecca Velázquez Álvarez",
+      "category": "Ginecología",
+      "phone": "(787) 266-7261",
+      "value": "+1787-266-7261",
+      "catId": "catg"
+    },
+    {
+      "title": "Sonia Velázquez Navarro",
+      "category": "Medicina interna",
+      "phone": "(787) 722-0445",
+      "value": "+1787-722-0445",
+      "catId": "catmi"
+    },
+    {
+      "title": "Mildred Vélez Ortiz",
+      "category": "Ginecología",
+      "phone": "(787) 767-8496",
+      "value": "+1787-767-8496",
+      "catId": "catg"
+    },
+    {
+      "title": "Manuel Velilla Iglesias",
+      "category": "Ginecología",
+      "phone": "(787) 728-8338",
+      "value": "+1787-728-8338",
+      "catId": "catg"
+    },
+    {
+      "title": "Fernando Villamil Wiscovitch",
+      "category": "Cirugía de espalda",
+      "phone": "(787) 977-7402",
+      "value": "+1787-977-7402",
+      "catId": "catces"
+    },
+    {
+      "title": "Rafael Villavicencio",
+      "category": "Cardiología pediátrica",
+      "phone": "(787) 764-3240",
+      "value": "+1787-764-3240",
+      "catId": "catc catp"
+    },
+    {
+      "title": "Víctor Villegas Ceide",
+      "category": "Retinología y oftalmología pediátrica",
+      "phone": "(787) 919-3156",
+      "value": "+1787-919-3156",
+      "catId": "catgrt catp catrop"
+    },
+    {
+      "title": "Héctor Zavala Quiñones",
+      "category": "Ginecología",
+      "phone": "(787) 704-0433",
+      "value": "+1787-704-0433",
+      "catId": "catg"
+    },
+    {
+      "title": "Marie Zweig Mendoza",
+      "category": "Ginecología",
+      "phone": "(787) 721-1541",
+      "value": "+1787-721-1541",
+      "catId": "catg"
+    }
+  ]
+}

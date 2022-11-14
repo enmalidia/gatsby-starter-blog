@@ -1,0 +1,191 @@
+{
+  "header": "para pacientes",
+  "title": "Admisiones y pre-admisiones",
+  "details": [
+    "El Centro de registro del Hospital Ashford está diseñado para facilitar el proceso de admisiones de una forma eficiente y en un solo lugar."
+  ],
+  "extradetails": "Integramos las citas para servicios de radiografías, laboratorios, consulta médica, pre admisión, admisión y pagos en un solo dia.",
+  "buttonText": "Descargar formularios",
+  "downloadText": "Descargar",
+  "contact": {
+    "header": "Horarios y teléfonos",
+    "list": [
+      {
+        "id": 2,
+        "type": "hours",
+        "text": "7:00am-6:00pm"
+      },
+      {
+        "id": 1,
+        "type": "phone",
+        "text": "(787) 721-2160, ext. 6542, 6548, 6549, 1001 y 1003",
+        "value": "787-721-2160"
+      }
+    ]
+  },
+  "contactNote": "*El paciente puede hacer cita para pre-admisión llamando al (787) 417-7410 o personalmente en el área de admisiones del Hospital",
+  "requirementsTitle": "Requisitos para el paciente",
+  "requirements": [
+    [
+      { "id": 1, "text": "Paciente debe venir en ayuna" },
+      {
+        "id": 2,
+        "text": "Órdenes médicas originales, Historial y Consentimiento de Operación firmados por paciente y médico."
+      },
+      { "id": 3, "text": "Embarazadas - Copia de récord médico." },
+      { "id": 4, "text": "Identificación con foto del paciente." },
+      {
+        "id": 5,
+        "text": "Tarjetas de plan médico elegibles o certificación del plan médico de paciente."
+      },
+      { "id": 6, "text": "Autorización de plan médico de ser necesario." },
+      {
+        "id": 7,
+        "text": "Referidos de su médico primario (Uso de Facilidad/Hospital, Anestesia, Patología, Laboratorio, Radiología, EKG y/o Internista)."
+      },
+      {
+        "id": 8,
+        "text": "Preparado para realizar pagos: depósito, copago, deducibles de su plan médico, baby care kit, implantes o prótesis, de haber 2 o más procedimientos quirúrgicos se requiere un depósito."
+      },
+      {
+        "id": 9,
+        "text": "Paciente debe coordinar cita con Médico Internista referido por su cirujano antes de la pre-admisión."
+      },
+      {
+        "id": 10,
+        "text": "Recuerde que debe presentarse acompañado de un adulto/familiar competente, que le asista en el proceso de pre-admisión."
+      },
+      {
+        "id": 11,
+        "text": "De no poder asistir a su cita de pre-admisión en la fecha de su cita debe llamar al: (787) 721-2160, ext. 6531, 6532, 6548, 6549."
+      }
+    ]
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "text": "*Todo aquel paciente que su plan médico requiera autorización, referido o llamada al plan médico, debe ser gestionada con la oficina de su cirujano o ginecólogo antes de su cita de pre-admisión"
+    },
+    {
+      "id": 2,
+      "text": " *De usted no cumplir con alguno de estos requisitos NO podrá realizar la pre-admisión"
+    }
+  ],
+  "docs": [
+    {
+      "id": 1,
+      "title": "Formulario de registro (ESP)",
+      "url": "/Formulario de Registro - Espanol.pdf"
+    },
+    {
+      "id": 2,
+      "title": "Formulario de registro (ENG)",
+      "url": "/Formulario Registro - English.pdf"
+    },
+    {
+      "id": 3,
+      "title": "Formulario de autorización para tratamiento médico y/o procedimiento",
+      "url": "/Hojas cortas del formulario de registro.pdf"
+    }
+  ],
+  "formSection": {
+    "header": "Ashford Card",
+    "title": "Formulario de admisión",
+    "description": "La tarjeta Ashford Card está diseñada para agilizar el servicio al paciente que nos visita.",
+    "details": "La tarjeta es completamente gratis, y al solicitarla mantenemos su información básica en nuestros archivos de forma que cuando requiera servicios con solamente mostrar su tarjeta, podemos registrar de inmediato. Para solicitar la Ashford Card, llene la siguiente solicitud:",
+    "form": {
+      "submitText": "Enviar",
+      "firstName": "Nombre",
+      "lastName": "Apellidos",
+      "birthday": "Fecha de nacimiento",
+      "email": "Email",
+      "phone": "Teléfono",
+      "gender": "Sexo",
+      "address": "Dirección",
+      "plan": "Plan médico",
+      "genderList": [
+        { "id": -1, "value": "none", "text": "Seleccione" },
+        { "id": 1, "value": "man", "text": "Masculino" },
+        { "id": 2, "value": "woman", "text": "Femenino" }
+      ],
+      "planList": [
+        { "id": -1, "value": "Seleccione", "text": "Seleccione" },
+        { "id": 1, "value": "ACAA", "text": "ACAA" },
+        { "id": 2, "value": "Atlantic Care", "text": "Atlantic care" },
+        {
+          "id": 3,
+          "value": "Auxilio Mutuo Plus",
+          "text": "Auxilio mutuo plus"
+        },
+        { "id": 4, "value": "Corvel", "text": "Corvel" },
+        {
+          "id": 5,
+          "value": "First Plus (Advantage)",
+          "text": "First plus (advantage)"
+        },
+        {
+          "id": 6,
+          "value": "Humana Gold (Medicare)",
+          "text": "Humana gold (medicare)"
+        },
+        {
+          "id": 7,
+          "value": "Humana Insurance & Health",
+          "text": "Humana insurance & health"
+        },
+        { "id": 8, "value": "Int. Medical Card", "text": "Int. Medical card" },
+        {
+          "id": 9,
+          "value": "International Manager Care (Redbridge)",
+          "text": "International manager care (redbridge)"
+        },
+        { "id": 10, "value": "MAPFRE", "text": "MAPFRE" },
+        { "id": 11, "value": "MCSClassic", "text": "MCSClassic" },
+        {
+          "id": 12,
+          "value": "Medical Card (PPO & EPO)",
+          "text": "Medical card (PPO & EPO)"
+        },
+        { "id": 13, "value": "Medicare", "text": "Medicare" },
+        { "id": 14, "value": "Menonita Plan", "text": "Menonita plan" },
+        { "id": 15, "value": "MMM & PMC", "text": "MMM & PMC" },
+        { "id": 16, "value": "MMM PSG", "text": "MMM PSG" },
+        { "id": 17, "value": "Palic", "text": "Palic" },
+        { "id": 18, "value": "SSS Advantage", "text": "SSS advantage" },
+        {
+          "id": 19,
+          "value": "SSS Blue Cross and Blue Shield",
+          "text": "SSS blue cross and blue shield"
+        },
+        {
+          "id": 20,
+          "value": "SSS CCI & Selective",
+          "text": "SSS CCI & selective"
+        },
+        { "id": 21, "value": "SSS Comercial", "text": "SSS comercial" },
+        {
+          "id": 22,
+          "value": "SSS Vital - Plan de Salud del Gobierno (PSG)",
+          "text": "SSS Vital - Plan de salud del gobierno (PSG)"
+        },
+        {
+          "id": 23,
+          "value": "Menonital Vital (PSG)",
+          "text": "Menonital vital (PSG)"
+        },
+        {
+          "id": 24,
+          "value": "First Medical Vital (IMC Salud) APS - Plan Gobierno",
+          "text": "First medical vital (IMC salud) APS - plan gobierno"
+        },
+        {
+          "id": 25,
+          "value": "Tricare o Pacientes Privados",
+          "text": "Tricare o pacientes privados"
+        },
+        { "id": 26, "value": "UTM", "text": "UTM" },
+        { "id": 27, "value": "Otro", "text": "Otro" }
+      ]
+    }
+  }
+}

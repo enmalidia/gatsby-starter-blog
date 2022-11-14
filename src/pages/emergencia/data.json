@@ -1,0 +1,68 @@
+{
+  "eme1": {
+    "header": "Sala de emergencia",
+    "title": "Nuestra sala de emergencia está abierta 24 horas al día, los 7 días de la semana",
+    "description": "Contamos con profesionales especializados en medicina de familia, medicina de emergencia, medicina interna, pediatría, enfermería y administración",
+    "detail": "El Ashford es el hospital de emergencia designado para el Aeropuerto Internacional Luis Muñoz Marín, Puertos de Cruceros de San Juan, Centro de Convenciones y hoteles en el área metropolitana de San Juan.",
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list":[
+        {
+          "id":1,
+          "type": "phone",
+          "text":  "(787) 721-2160, ext. 1095, 1096, 1097 y 1098",
+          "value": "787-721-2160"
+        },
+        {
+          "id":2,
+          "type": "hours",
+          "text": "24 horas al día, los siete días de la semana"
+        }
+      ]
+    }
+  },
+  "eme2": {
+    "header": "Sala de emergencia",
+    "title": "Sala de emergencias de adultos",
+    "description": "En nuestra sala de emergencia te ofrecemos un diagnóstico preciso con calor humano",
+    "details": "En la Sala de Emergencias del Hospital Ashford brindamos servicios de emergencia con cómodas salas de espera, cirugía, rayos x, cuidado intensivo, admisión intermedia, registro y primeros auxilios.",
+    "list": [
+      [
+        {
+          "id": 2,
+          "text": "Servicio de emergenciólogos"
+        },
+        {
+          "id": 3,
+          "text": "Agilidad en prestación de servicios"
+        },
+        {
+          "id": 4,
+          "text": "Unidades especializadas en dolor"
+        }
+      ]
+    ]
+  },
+  "eme3": {
+    "header": "Sala de emergencia",
+    "title": "Sala de emergencias pediátrica",
+    "description": "",
+    "details": "El Ashford fue el primer hospital en Puerto Rico que tiene sala de emergencia para niños disponible las 24 horas del día con el mejor equipo de pediatría y enfermería y el apoyo humano que necesitan los padres en momentos inesperados.",
+    "list": [
+      [
+        {
+          "id": 1,
+          "text": "6 camas de observación y tratamiento para cualquier tipo de enfermedad aguda"
+        },
+        {
+          "id": 2,
+          "text": "Pediatras, consultores pediátricos y sub-especialistas con vasta experiencia"
+        },
+        {
+          "id": 3,
+          "text": "Enfermeras auxiliares y graduadas"
+        }
+      ]
+    ]
+  }
+}

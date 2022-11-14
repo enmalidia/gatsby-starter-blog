@@ -1,0 +1,22 @@
+{
+    "cardTitle": "Descargar guía del paciente:",
+    "cardDescription": "",
+    "docs": [
+      {
+        "title": "guiapaciente.pdf",
+        "id": 1,
+        "url": "/GUIA DEL PACIENTE ESPANOL - ReV4.pdf"
+      }
+    ],
+    "downloadText": "Descargar",
+    "planTitle": "Planes médicos aceptados",
+    "actionDownload": "Descargar url",
+    "header": "para pacientes",
+    "title": "Guía paciente",
+    "description": "Carta de Directora Ejecutiva:",
+    "details": "Estimado paciente:\n¡Bienvenido al Hospital Ashford!\nEn el Hospital Ashford nuestra misión es atenderle con servicios médicos de excelencia sin perder el calor humano que nos caracteriza. Por 118 años, nos hemos distinguido por nuestro compromiso y dedicación a la salud de Puerto Rico. Junto a nuestra facultad médica de primera, el bienestar de nuestros pacientes siempre va a ser primordial y esperamos que su estancia sea lo más agradable posible.\nTrabajamos para recibir la aprobación y agradecimiento de cada uno de nuestros pacientes en todo momento, interacción y servicio que brindemos. Diseñamos esta Guía del Paciente para orientarlo a usted y a su familia sobre el funcionamiento del Hospital y las normas que rigen nuestra institución, las cuales deben ser respetadas durante su estadía. De igual forma, queremos explicarle sus derechos como paciente y trabajar juntos hacia su pronta recuperación.\nA nombre de la Junta de Síndicos, de la Administración, la Facultad Médica y de nuestros empleados le damos una cordial bienvenida y le agradecemos la confianza depositada en nuestra institución.",
+    "worker": {
+      "name": "Lcda. Itza Soto",
+      "job": "Directora Ejecutiva"
+    }
+  }

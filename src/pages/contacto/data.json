@@ -1,0 +1,92 @@
+{
+  "header": "contacta",
+  "title": "Contacta con Ashford",
+  "social": {
+    "title": "Redes sociales",
+    "networks": {
+      "facebook": "https://es-la.facebook.com/ashfordhospitalpr/",
+      "linkedin": "https://www.linkedin.com/company/ashfordhospital/?originalSubdomain=pr",
+      "twiter": "https://twitter.com/ashfordpr",
+      "instagram": "https://www.instagram.com/ashfordhospitalpr/?hl=es"
+    }
+  },
+  "contact": {
+    "header": "Información, ubicación y horarios",
+    "list": [
+      {
+        "id": 1,
+        "type": "location",
+        "text": "1451 Ave Dr Ashford, San Juan, 00907, Puerto Rico"
+      },
+      { "id": 2, "type": "phone", "text": "+1 787-721-2160", "value": "+1787-721-2160" },
+      { "id": 3, "type": "phone", "text": "Compliance Hotline: +1 787-721-2163", "value": "+1787-721-2163"},
+      { "id": 4, "type": "email", "text": "spaciente@ashfordhospital.com", "value": "spaciente@ashfordhospital.com" },
+      {
+        "id": 5,
+        "type": "hours",
+        "text": "De lunes a viernes de 9:00am a 5:00pmm"
+      }
+    ]
+  },
+  "details": [
+    {
+      "id": 1,
+      "section": "Dirección",
+      "items": [
+        {
+          "title": "",
+          "detail": "1451 Ave Dr Ashford, San Juan, 00907, Puerto Rico",
+          "type": "location"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "section": "Emails",
+      "items": [
+        {
+          "title": "Email de admisiones",
+          "detail": "info@ashford.com",
+          "type": "email"
+        },
+        {
+          "title": "Email de Pre-admisiones",
+          "detail": "info@ashford.com",
+          "type": "email"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "section": "Teléfonos",
+      "items": [
+        {
+          "title": "Teléfonos de admisiones",
+          "detail": "+1 787-721-2160",
+          "type": "phone"
+        },
+        {
+          "title": "Teléfonos de Pre-admisiones",
+          "detail": "+1 787-721-2160",
+          "type": "phone"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "section": "Horarios",
+      "items": [
+        {
+          "title": "Horarios de admisiones",
+          "detail": "De lunes a viernes de 9:00am a 5:00pm",
+          "type": "clock"
+        },
+        {
+          "title": "Horarios de Pre-admisiones",
+          "detail": "De lunes a viernes de 9:00am a 5:00pm",
+          "type": "clock"
+        }
+      ]
+    }
+  ]
+}

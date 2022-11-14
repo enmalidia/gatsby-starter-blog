@@ -1,0 +1,67 @@
+.storyPageSwiper {
+  height: 100%;
+  padding-bottom: 80px;
+  padding-left: var(--spacing-4);
+  padding-right: var(--spacing-4);
+
+  @media (min-width: 768px) {
+    padding-bottom: 152px;
+    
+  padding-left: 0px;
+  padding-right: 0px;
+  }
+  .pagination-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 16px 8px 16px;
+    width: 100%;
+    height: var(--spacing-8);
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    background-color: var(--color-sea);
+
+    .pag {
+      color: var(--color-white);
+      font: var(--typo-body-l);
+      font-style: normal;
+      line-height: 24px;
+      margin: 0px 0px;
+    }
+
+    @media (min-width: 768px) {
+      width: 253px;
+    }
+  }
+  .arrow-container {
+    /* height: 24px; */
+    display: flex;
+
+    .prev,
+    .next {
+      width: 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .next {
+      margin-left: 40px;
+    }
+    img {
+      margin: 0px;
+      width: 7.7px;
+      height: 13.5px;
+    }
+  }
+
+  .prev,
+  .next {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  .swiper-button-disabled {
+    opacity: 0.5;
+    cursor: not-allowed !important;
+  }
+}

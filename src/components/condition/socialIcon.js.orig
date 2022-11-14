@@ -1,0 +1,30 @@
+import React from "react"
+import PropTypes from "prop-types"
+import styled from "@emotion/styled"
+const Container = styled.a`
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  background-color: ${props => props.color ? `var(--color-${props.color})` : "var(--color-frost)"};
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+`
+
+<<<<<<< HEAD
+const SocialIcon = ({children, color}) => {
+  return <Container color={color}>{children}</Container>
+=======
+const SocialIcon = props => {
+  return (
+    <Container href={props.href} target="_blank">
+      {props.children}
+    </Container>
+  )
+>>>>>>> 49c6a1b0ea86457d437a73e418e6b32692b85132
+}
+
+SocialIcon.propTypes = {}
+
+export default SocialIcon

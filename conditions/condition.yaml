@@ -1,0 +1,891 @@
+- meta:
+    id: 1
+    slug: artritis
+  category: Ortopedia
+  name: Artritis
+  cause: La artritis ocurre a causa de la degradación de estructuras articulares, como el cartílago. Sin la cantidad usual de cartílago, los huesos se dañan y se rozan. Esto causa dolor, hinchazón y rigidez.
+  orientation: La artritis es la inflamación y sensibilidad de una o más articulaciones (donde dos huesos se encuentran). Existen sobre 100 tipos diferentes de artritis.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor,
+      Rigidez,
+      Inflamación,
+      Enrojecimiento,
+      Disminución en la habilidad de movimiento,
+    ]
+  testExams: Durante una examinación del paciente, el médico lo revisará por dolor o inflamación en sus articulaciones. Las formas de identificar el tipo de artritis que tengas se pueden hacer a través de un análisis de laboratorio o un diagnóstico por imágenes.
+  treatment: El tratamiento para la artritis se centra en aliviar los síntomas y mejorar el funcionamiento de las articulaciones. Es posible que necesite experimentar con distintos tratamientos como el uso de medicamentos, terapia o cirugía.
+
+- meta:
+    id: 2
+    slug: fracturas
+  category: Ortopedia
+  name: Fracturas
+  cause: Las fracturas en general ocurren debido a accidentes, caídas o lesiones deportivas. Otras causas son la pérdida de masa ósea y la osteoporosis, que causa debilitamiento de los huesos.
+  orientation: Una fractura es una ruptura, generalmente en un hueso. Si se aplica más presión sobre un hueso de la que puede soportar, este se romperá. Si el hueso roto rompe la piel, se denomina fractura abierta o compuesta.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor intenso,
+      Deformidad (la extremidad se ve fuera de lugar),
+      Hinchazón,
+      hematomas o dolor alrededor de la herida,
+      Problemas al mover la extremidad,
+    ]
+  testExams: Su médico revisará sus antecedentes y le hará una exploración física para revisar cómo se produjo la lesión. Después de esto se le harán pruebas de radiografías, resonancia magnética, o tomografía computarizada para determinar la seriedad de la misma.
+  treatment: El objetivo del tratamiento es colocar las partes del hueso en su lugar, controlar el dolor y dar tiempo al hueso para que se fortalezca. Para lograr esto se pueden usar medicamentos, un yeso para inmovilizar la zona lesionada, o cirugías para reparar la lesión.
+
+- meta:
+    id: 3
+    slug: escoliosis
+  category: Ortopedia
+  name: Escoliosis
+  cause: En muchos casos la escoliosis se debe a factores hereditarios. También pueden ser a causa de defectos de nacimiento, cirugías en los primeros meses de vida, lesiones de la columna vertebral y anomalías en la médula espinal.
+  orientation: Escoliosis es una desviación de la columna vertebral que mayormente se diagnostica en adolescentes. Aunque muchos casos de escoliosis son leves, un caso grave puede ser incapacitante.
+  sintoms: ""
+  sintomList:
+    [
+      Hombros desparejos,
+      Omóplato más prominente que el otro,
+      Cintura despareja,
+      Un lado de la cintura más alto que el otro,
+      Parte de la caja torácica hacia afuera,
+      Se sobresale la espalda al inclinarse,
+    ]
+  testExams: Radiografías pueden confirmar el diagnóstico de escoliosis y revelar la curvatura en la columna vertebral. Si el médico sospecha que otra afección es la causa - como una anomalía de la médula espinal - podría recomendar imágenes por resonancia magnética.
+  treatment: Tratamientos para escoliosis varían según la gravedad de la curvatura. Se pueden usar dispositivos de inmovilización para situaciones leves, pero es posible que casos graves requieran cirugías como la fusión espinal, varilla extensible o una atadura del cuerpo vertebral.
+
+- meta:
+    id: 4
+    slug: cartilagos-rasgados
+  category: Ortopedia
+  name: Cartílagos rasgados
+  cause: El cartílago dañado es el resultado de una lesión, trauma o de una degeneración natural. Los atletas son propensos a sufrir lesiones de cartílago y el riesgo de daños adicionales en el cartílago aumenta en las personas mayores.
+  orientation: El cartílago es el material flexible entre los huesos de las articulaciones del cuerpo. Lesiones de cartílago pueden ocurrir en la rodilla, la cadera, el codo, el hombro y el tobillo.
+  sintoms: ""
+  sintomList: [Dolor, Inflamación, Incomodidad en las articulaciones]
+  testExams: Un médico hace un diagnóstico de cartílago desgarrado tomando un historial médico y evaluando cualquier lesión o trauma, completando un examen físico y, de ser necesario, ordenando una prueba de diagnóstico por imágenes.
+  treatment: Tratamientos para cartílago desgarrado varía según la extensión de la lesión. El tratamiento puede ser tan simple como terapia con hielo, reposo y medicamentos. En otros casos, puede ser necesaria una cirugía para reparar o eliminar el cartílago dañado.
+
+- meta:
+    id: 5
+    slug: tendinitis
+  category: Ortopedia
+  name: Tendinitis
+  cause: La tendinitis puede ser causada por la repetición de un movimiento en particular a lo largo del tiempo. Las personas pueden padecer de tendinitis porque sus trabajos o pasatiempos requieren movimientos repetitivos, que molestan los tendones.
+  orientation: La tendinitis es la inflamación o la irritación de un tendón. Es más frecuente alrededor de los hombros, los codos, las muñecas, las rodillas y los talones.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor al mover extremidad o articulación afectada,
+      Sensibilidad,
+      Inflamación,
+    ]
+  testExams: El médico puede diagnosticar tendinitis con tan solo la exploración física. Es posible que el médico pida radiografías o otras pruebas de diagnóstico por imágenes si es necesario descartar otras causas de tus signos y síntomas.
+  treatment: El objetivo del tratamiento de la tendinitis es aliviar el dolor y reducir la inflamación. Tu médico puede recomendarte medicamentos como analgésicos, un programa de fisioterapia, o hasta una cirugía de ser necesario.
+
+- meta:
+    id: 6
+    slug: bursitis
+  category: Ortopedia
+  name: Bursitis
+  cause: Las causas de la bursitis son los movimientos repetitivos o la aplicación de presión a las bolsas sinoviales alrededor de una articulación. Otras causas pueden ser lesiones o traumas en el área afectada, la artritis inflamatoria y las infecciones.
+  orientation: La bursitis es un trastorno doloroso que ocurre cuando se inflaman las pequeñas bolsas rellenas de líquido alrededor de los huesos, tendones y músculos.
+  sintoms: ""
+  sintomList:
+    [
+      Sentir dolor o presión,
+      Dolor incapacitante en articulaciones,
+      Inflamación y verse enrojecido,
+    ]
+  testExams: En general, los médicos pueden diagnosticar bursitis de acuerdo con la historia clínica del paciente y una exploración física. De ser necesario, pueden hacerse pruebas de diagnóstico por imágenes o un análisis de laboratorio.
+  treatment: La bursitis suele mejorar sola o con medidas conservadoras. El descanso, ponerte hielo o tomar un analgésico pueden aliviar una molestia. En casos más graves es posible que necesite terapias, inyecciones o hasta cirugía.
+
+- meta:
+    id: 7
+    slug: osteoporosis
+  category: Ortopedia
+  name: Osteoporosis
+  cause: Los huesos se encuentran en un estado constante de renovación, pero después de los 20 años este proceso se hace más lento y la mayoría de las personas alcanzan su masa ósea máxima a los 30 años. A medida que uno envejece, la masa ósea se pierde más rápido de lo que se crea.
+  orientation: La osteoporosis hace que los huesos se debiliten de tal manera que una caída o leve tensión puede causar una fractura. Las fracturas ocurren con mayor frecuencia en la cadera, muñeca o columna vertebral.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor de espalda,
+      Postura encorvada,
+      Pérdida de estatura con el tiempo,
+      Huesos que rompen más fácil de lo esperado,
+    ]
+  testExams: La densidad ósea puede medirse con una máquina que utiliza niveles bajos de rayos X para determinar la proporción de minerales en los huesos. En la mayoría de los casos, solo se examinan algunos huesos, generalmente en la cadera y la columna vertebral.
+  treatment: El tratamiento se basa en una estimación del riesgo de fractura de un hueso en los próximos 10 años, utilizando información como la prueba de densidad ósea. Si tu riesgo no es alto, el tratamiento podría no incluir medicamentos.
+
+- meta:
+    id: 8
+    slug: condiciones-de-espalda-rodilla-hombros
+  category: Ortopedia
+  name: Condiciones de espalda, rodilla y hombros
+  cause: Estas condiciones normalmente se dan a causa de una lesión, como puede ser una ruptura de ligamento o un desgarro de cartílago. Pero también son condiciones que ocurren debido al deterioro normal del cuerpo.
+  orientation: Las condiciones de espalda, rodilla y hombros son de las causas principales de discapacidad en el mundo ya que le pueden suceder a personas de todas edades sin importar su historial médico.
+  sintoms: ""
+  sintomList:
+    [
+      Rango de movimiento limitado,
+      Inflamación,
+      Rigidez después de la inactividad o durante la actividad,
+      Hinchazón,
+      Enrojecimiento,
+      Debilidad o inestabilidad,
+      Incapacidad para realizar actividades cotidianas,
+    ]
+  testExams: Su médico evaluará sus síntomas y antecedentes médicos y le hará un examen físico para determinar su condición. De ser necesario le pedirá hacerse un análisis de sangre, rayos X, imágenes por resonancia magnética, entre otras pruebas.
+  treatment: Dependiendo de la seriedad de su condición, su médico lo podría tratar de varias formas. Por lo general, estas condiciones se pueden tratar con medicamentos, ejercicios, fisioterapia, masajes, acupuntura, entre otras opciones.
+
+- meta:
+    id: 9
+    slug: diabetes
+  category: Endocrinología
+  name: Diabetes
+  cause: La causa de la diabetes varía según el tipo que tengas, existe la diabetes tipo 1 y la tipo 2. Independientemente del tipo de diabetes que tengas, ambas pueden provocar un exceso de glucosa en la sangre y problemas de salud graves.
+  orientation: La diabetes afecta la forma en que el cuerpo utiliza la glucosa sanguínea. La glucosa es vital ya que es una fuente de energía para las células que forman los músculos y tejidos.
+  sintoms: ""
+  sintomList:
+    [
+      Aumento de sed,
+      Hambre extrema,
+      Pérdida de peso,
+      Fatiga,
+      Irritabilidad,
+      Visión borrosa,
+      Llagas que tardan en cicatrizar,
+      Infecciones frecuentes,
+    ]
+  testExams: "Algunos pasos a tomar para la detección de la diabetes son: Prueba de hemoglobina glucosilada, Examen aleatorio de glucosa sanguínea, Examen de glucemia en ayunas, Examen de tolerancia oral a la glucosa."
+  treatment: Mantener un peso saludable a través de una dieta saludable y del ejercicio diario es fundamental para el tratamiento de la diabetes. El control del nivel de azúcar en sangre, la insulina y los medicamentos orales pueden influir en tu tratamiento.
+
+- meta:
+    id: 10
+    slug: hipertiroidismo
+  category: Endocrinología
+  name: Hipertiroidismo
+  cause: El hipertiroidismo puede acelerar el metabolismo del cuerpo, lo cual causa una pérdida de peso involuntaria y latidos rápidos o irregulares.
+  orientation: El hipertiroidismo ocurre cuando la glándula tiroides produce más hormonas tiroxinas de las que su cuerpo necesita.
+  sintoms: ""
+  sintomList:
+    [
+      Pérdida de peso involuntaria,
+      Latidos rápidos (taquicardia),
+      Latidos irregulares (arritmia),
+      Sensación de golpes en el pecho (palpitaciones),
+      Aumento del apetito,
+      Nerviosismo,
+      ansiedad e irritabilidad,
+      Temblores,
+      Cambios en patrones de menstruación,
+      Aumento de sensibilidad al calor,
+      Cambio en los hábitos intestinales,
+      Glándula tiroides agrandada,
+      Fatiga y debilidad muscular,
+      Dificultad para dormir,
+      Piel delgada,
+      Cabello fino o frágil,
+    ]
+  testExams: El hipertiroidismo se diagnostica a través de un historial médico, examen físico y análisis de sangre del paciente. Si los análisis de sangre indican hipertiroidismo, el médico podría recomendar pruebas adicionales.
+  treatment: Existen varios tratamientos para el hipertiroidismo dependiendo de la edad del paciente, su condición física y la gravedad de la afección. Los posibles tratamientos incluyen el yodo radioactivo, medicamentos antitiroideos, betabloqueadores, o cirugía.
+
+- meta:
+    id: 11
+    slug: hipotiroidismo
+  category: Endocrinología
+  name: Hipotiroidismo
+  cause: El hipotiroidismo puede no causar síntomas notables en las primeras etapas, pero con el tiempo el hipotiroidismo no tratado puede causar numerosos problemas de salud, como obesidad, dolor en las articulaciones, infertilidad o enfermedad cardíaca.
+  orientation: El hipotiroidismo es un trastorno en el cual la glándula tiroides no produce la cantidad suficiente de ciertas hormonas cruciales para su cuerpo.
+  sintoms: ""
+  sintomList:
+    [
+      Fatiga,
+      Aumento de sensibilidad al frío,
+      Estreñimiento,
+      Piel seca,
+      Aumento de peso,
+      Inflamación,
+      Debilidad muscular,
+      Nivel de colesterol en sangre elevado,
+      Dolores,
+      sensibilidad y rigidez musculares,
+      Períodos menstruales irregulares,
+      Afinamiento del cabello,
+      Ritmo cardíaco lento,
+      Depresión,
+      Memoria deficiente,
+      Glándula tiroides agrandada,
+    ]
+  testExams: El médico puede realizar pruebas de sangre para detectar una tiroides hipoactiva si te sientes demasiado cansado/a, tienes la piel seca, estreñimiento, aumento de peso o si has tenido problemas anteriores de tiroides.
+  treatment: Para tratar el hipotiroidismo hay que sustituir la producción de la glándula tiroides. La forma más eficiente de lograrlo es administrando tiroxina, ya que restaura los niveles adecuados de la hormona y revierte los signos y síntomas del hipotiroidismo.
+
+- meta:
+    id: 12
+    slug: hipoglucemia
+  category: Endocrinología
+  name: Hipoglucemia
+  cause: La hipoglucemia frecuentemente está relacionada con el tratamiento de la diabetes. Pero otros medicamentos y variedad de condiciones pueden causar un nivel bajo de azúcar en la sangre de personas que no tienen diabetes.
+  orientation: La hipoglucemia es una condición en la que el nivel de azúcar en sangre (glucosa) es más bajo de lo normal. La glucosa es la principal fuente de energía para el cuerpo.
+  sintoms: ""
+  sintomList:
+    [
+      Latidos irregulares del corazón,
+      Fatiga,
+      Piel pálida,
+      Temblores,
+      Ansiedad,
+      Sudores,
+      Hambre,
+      Irritabilidad,
+      Desorientación,
+      Visión borrosa,
+      Convulsiones,
+    ]
+  testExams: Si ve signos de hipoglucemia debe verificar sus niveles de azúcar en la sangre, y si demuestra un nivel bajo de azúcar visite a su médico para que le haga un plan de tratamiento haciendo un análisis de sangre luego de un periodo de ayuna.
+  treatment: Si tienes síntomas de hipoglucemia se recomienda que coma o beba alimentos azucarados. Es importante volver a controlar los niveles de azúcar en la sangre, de ser un caso más grave es posible que necesite una inyección de glucosa.
+
+- meta:
+    id: 13
+    slug: ibs
+  category: Colorrectal
+  name: IBS
+  cause: "Se desconoce la causa precisa del síndrome de colon irritable pero algunos factores comunes son: contracciones musculares en el intestino, el sistema nervioso, alguna infección grave, estrés a temprana edad y cambios en los microbios intestinales."
+  orientation: El síndrome de colon irritable es un trastorno crónico que afecta al intestino grueso y se tiene que controlar a largo plazo.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor o hinchazón en el abdomen,
+      Aumento de gases,
+      Cambios en aspecto de las deposiciones,
+      Cambios en frecuencia con que se evacúan los intestinos,
+    ]
+  testExams: No existe prueba para diagnosticar definitivamente el síndrome de colon irritable. El mejor método para el médico es comenzar con sus antecedentes médicos completos, un examen físico y pruebas para descartar otras afecciones.
+  treatment: El tratamiento del síndrome de colon irritable se centra en aliviar los síntomas para que puedas vivir con la mayor normalidad posible. Los signos y síntomas leves se pueden controlar reduciendo el estrés y haciendo cambios en tu dieta y estilo de vida.
+
+- meta:
+    id: 14
+    slug: estrenimiento
+  category: Colorrectal
+  name: Estreñimiento
+  cause: "Puede ser causada por su dieta (demasiados alimentos procesados y poca fibra), ciertos medicamentos , poca actividad física, deshidratación. Ciertas enfermedades y discapacidades también pueden causar estreñimiento. Se puede mencionar; esclerosis múltiple, accidente cerebrovascular, diabetes e hipotiroidismo."
+  orientation: Cuando una persona tiene tres o menos evacuaciones en una semana. Las heces pueden ser duras y secas. Algunas veces la evacuación es dolorosa.
+  sintoms: ""
+  sintomList:
+    [
+      "Sentir la necesidad de evacuar, incluso después de haberlo hecho",
+      "Tener heces duras y secas, difíciles de pasar",
+      "Tener menos de tres evaluaciones por semana",
+      "Dolor abdominal",
+      "Sangre o mucosidad blanca en las heces"
+    ]
+  testExams: ""
+  examList:
+    [
+        Examen rectal,
+        Radiografía,
+        Colonoscopia
+    ]
+  treatment: La mayoría de los casos se puede tratar en casa con dieta y ejercicios. En ocasiones requiere recomendaciones médicas; medicamentos o procedimientos.
+
+- meta:
+    id: 15
+    slug: hemorroides
+  category: Colorrectal
+  name: Hemorroides
+  cause: "Las hemorroides se desarrollan a causa de: esfuerzo al evacuar, sentarse en inodoro por largo tiempo, diarrea o estreñimiento, obesidad, estar embarazada, relaciones sexuales anales, seguir dieta con bajo contenido de fibras, levantar cosas pesadas."
+  orientation: Las hemorroides son venas hinchadas en el ano y la parte inferior del recto. Las hemorroides pueden ser internas (dentro del recto) o externas (en la piel alrededor del ano).
+  sintoms: ""
+  sintomList:
+    [
+      Irritación en la zona anal,
+      Dolor o molestia,
+      Hinchazón alrededor del ano,
+      Sangrado durante deposiciones,
+    ]
+  testExams: Su médico puede diagnosticar las hemorroides externas, pero para las internas puede incluir un examen del canal anal y el recto. Los médicos pueden optar por un examen digital, una inspección visual o una colonoscopia.
+  treatment: Las hemorroides se pueden tratar con tratamientos caseros como alimentos ricos en fibra, cremas, supositorios, aspirinas, o sentarse en una bañera de agua tibia. Consulte a su médico si en una semana no obtiene alivio, o si tiene dolor intenso o sangrado.
+
+- meta:
+    id: 16
+    slug: colitis
+  category: Colorrectal
+  name: Colitis
+  cause: La colitis sucede comúnmente por infecciones a causa de un virus o parásito, pérdida de sangre, enfermedades crónicas, reacciones alérgicas o por su genética.
+  orientation: La colitis es una enfermedad digestiva debido a la inflamación en la parte interna del colon. Existen varios tipos de colitis como la ulcerosa, isquémica, microscópica, entre otras.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor abdominal,
+      Diarrea,
+      Fiebre,
+      Heces con sangre,
+      Deseos constantes de tener deposiciones,
+      Deshidratación
+    ]
+  testExams: "La colitis se puede diagnosticar a través de una sigmoidoscopia flexible o colonoscopia. Otras pruebas como: Tomografía computarizada, Resonancia Magnética y Cultivos de sangre."
+  treatment: El tratamiento por lo general implica un cambio en su dieta, suplementos nutricionales y medicamentos recetados. La colitis leve responde a medicamentos como los esteroides y antiinflamatorios, y en casos severos se puede requerir cirugía.
+
+- meta:
+    id: 17
+    slug: diverticulosis
+  category: Colorrectal
+  name: Diverticulosis
+  cause: "Hay varios factores que pueden causar la diverticulosis: envejecimiento, obesidad, fumar tabaco, falta de ejercicio, dieta alta en grasa y baja en fibra, ciertos medicamentos."
+  orientation: La diverticulosis es la presencia de bolsas hinchadas que se pueden formar alrededor de su sistema digestivo. Por lo general, se encuentran en la parte inferior del colon.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor en el abdomen,
+      Náuseas y vómitos,
+      Fiebre,
+      Sensibilidad abdominal,
+      Estreñimiento o diarrea,
+    ]
+  testExams: Para el diagnóstico se usan análisis de sangre y orina, prueba de embarazo para mujeres en edad fértil, una prueba de enzimas hepáticas, un examen de evacuación, o una tomografía computarizada.
+  treatment: Si los síntomas son leves, es posible que recibas tratamiento en tu casa como antibióticos o cambios en tu dieta. Sin embargo, de ser un caso más grave podría ser hospitalizado y la cirugía es posible.
+
+- meta:
+    id: 18
+    slug: cancer-del-colon
+  category:
+  name: Cáncer de colon
+  cause: El cáncer de colon comienza cuando las células sanas del colon desarrollan cambios en su ADN. Las células sanas crecen y se dividen para mantener el funcionamiento normal del cuerpo, pero cuando una célula se daña puede volverse cancerosa.
+  orientation: El cáncer de colon es un tipo de cáncer que comienza en el intestino grueso. El colon es la parte final del tubo digestivo.
+  sintoms: ""
+  sintomList:
+    [
+      Diarrea o estreñimiento,
+      Sangre en las heces,
+      Heces más delgadas de lo normal,
+      Pérdida de peso sin razón aparente,
+      Náuseas o vómitos,
+      Fatiga
+    ]
+  testExams: Detectar el cáncer de colon en su etapa más temprana a través de análisis de sangre o una colonoscopia es de suma importancia. Si te han diagnosticado cáncer de colon, el médico te puede recomendar pruebas adicionales para determinar la extensión del mismo.
+  treatment: El tratamiento contra el cáncer de colon, por lo general, involucra cirugía para extirpar el cáncer. También se pueden recomendar otros tratamientos, como radioterapia y quimioterapia.
+
+- meta:
+    id: 19
+    slug: polipos-en-el-colon
+  category: Colorrectal
+  name: Pólipos en el colon
+  cause: Los pólipos se forman cuando hay un crecimiento irregular en las células del colon y recto. Por lo general, cuanto más grande es el pólipo, mayor es el riesgo de padecer cáncer.
+  orientation: Un pólipo en el colon es una pequeña acumulación de células que se forman alrededor del colon. La mayoría son inofensivos, pero algunos se pueden transformar en cáncer de colon.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor intenso,
+      Sangrado rectal,
+      Cambio de color en las evacuaciones,
+      Cambios en los hábitos intestinales,
+      Anemia por deficiencia de hierro,
+    ]
+  testExams: "Los exámenes de detección juegan un papel clave en la detección de pólipos antes de que se vuelvan cancerosos. Entre ellos están: Colonoscopía, Colonoscopía virtual, Sigmoidoscopia, Pruebas de evacuación"
+  treatment: El nivel de riesgo depende del tamaño, la cantidad y las características de los pólipos extirpados. Como tratamiento su médico podría hacerle una extirpación de colon/recto, una polipectomía, o alguna cirugía de invasión mínima.
+
+- meta:
+    id: 20
+    slug: crohns
+  category: Colorrectal
+  name: Crohns
+  cause: La enfermedad de Crohn es más común entre las personas que tienen familiares con esta enfermedad. También es posible que un virus o una bacteria desencadene la enfermedad de Crohn.
+  orientation: La enfermedad de Crohn es un tipo de enfermedad intestinal inflamatoria que puede producir dolor abdominal, diarrea grave, fatiga, pérdida de peso y malnutrición.
+  sintoms: ""
+  sintomList:
+    [
+      Diarrea,
+      Fiebre,
+      Fatiga,
+      Dolor y cólicos abdominales,
+      Presencia de sangre en las evacuaciones,
+      Disminución del apetito y pérdida de peso,
+      Dolor cerca o alrededor del ano debido a inflamación,
+    ]
+  testExams: Para diagnosticar el Crohns se pueden hacer análisis de laboratorio, pero es posible que se necesiten procedimientos como la colonoscopia, tomografía computarizada, resonancia magnética, cápsula endoscópica, o una enteroscopia.
+  treatment: Actualmente no existe una cura para el Crohns y no existe un tratamiento único que funcione para todos. Su médico le puede recetar medicamentos antiinflamatorios, inhibidores, antibióticos, entre otros. De ser necesario, la cirugía también es una opción.
+
+- meta:
+    id: 21
+    slug: uti
+  category: Ginecología
+  name: UTI
+  cause: Las infecciones urinarias suelen producirse cuando ingresan bacterias en las vías urinarias a través de la uretra y comienzan a multiplicarse en la vejiga. Aunque el sistema urinario está preparado para impedir este ingreso, estas defensas a veces fallan.
+  orientation: "La infección de las vías urinarias es una que se produce en cualquier parte del sistema urinario: los riñones, la vejiga y la uretra. Las mujeres tienen mayor riesgo de contraerlas que los hombres."
+  sintoms: ""
+  sintomList:
+    [
+      Necesidad urgente y constante de orinar,
+      Sensación de ardor al orinar,
+      Orinar frecuentemente en pequeñas cantidades,
+      Orina de color rojo,
+      rosa brillante o amarronado,
+      Orina con olor fuerte,
+      Dolor pélvico en las mujeres,
+    ]
+  testExams: "Para detectar un UTI se pueden hacer: análisis de una muestra de orina, un cultivo de las bacterias de las vías urinarias en un laboratorio, creación de imágenes de las vías urinarias, uso de un endoscopio para observar el interior de la vejiga."
+  treatment: Generalmente, los antibióticos son el tratamiento de primera línea para las infecciones de las vías urinarias. Si la infección de las vías urinarias es grave, es posible que necesites tratamiento con antibióticos intravenosos en un hospital.
+
+- meta:
+    id: 22
+    slug: fibromas
+  category: Ginecología
+  name: Fibromas
+  cause: Médicos no conocen una causa exacta para los fibromas uterinos pero muchos se deben a cambios genéticos o hormonales, la matriz extracelular y otros factores de crecimiento.
+  orientation: Los fibromas son tumores no cancerosos del útero que a menudo aparecen durante los años fértiles. Muchas mujeres tienen fibromas en algún momento de su vida.
+  sintoms: ""
+  sintomList:
+    [
+      Sangrado menstrual abundante,
+      Períodos menstruales que duran más de una semana,
+      Presión o dolor pélvico,
+      Necesidad de orinar a menudo,
+      Dificultad para vaciar la vejiga,
+      Estreñimiento,
+      Dolor de espalda o de piernas,
+    ]
+  testExams: Los fibromas con frecuencia se encuentran accidentalmente durante un examen pélvico de rutina cuando su médico nota irregularidades en la forma del útero, lo cual sugiere la presencia de fibromas. Su médico puede solicitar una ecografía o un análisis de laboratorio.
+  treatment: Los fibromas no son cancerosos, generalmente crecen despacio y tienden a reducirse después de la menopausia. Muchas veces se pueden tratar con medicamentos, pero a veces son necesarios procedimientos invasivos como los no-invasivos.
+
+- meta:
+    id: 23
+    slug: endometriosis
+  category: Ginecología
+  name: Endometriosis
+  cause: "Las posibles explicaciones de la endometriosis incluyen: menstruación retrógrada, transformación de células peritoneales, transformación de células embrionarias, cicatrices quirúrgicas, transporte de células endometriales, trastorno de sistema inmunitario."
+  orientation: La endometriosis es un trastorno, a veces doloroso, en el cual el tejido que normalmente recubre el interior del útero crece fuera del útero.
+  sintoms: ""
+  sintomList:
+    [
+      Períodos dolorosos,
+      Dolor al tener relaciones sexuales,
+      Dolor al defecar o al orinar,
+      Sangrado excesivo,
+      Infertilidad,
+    ]
+  testExams: "Para diagnosticar la endometriosis el médico te pedirá que describas tus síntomas, la ubicación del dolor y cuándo se presenta. Algunos exámenes para verificar si hay indicios son: examen pélvico, ecografía, laparoscopia, imágenes por resonancia magnética."
+  treatment: El tratamiento para la endometriosis generalmente son medicamentos o cirugía. Todo dependerá de la gravedad de tus síntomas y de si deseas quedar embarazada. Los médicos recomiendan un tratamiento conservador primero y solo optan por cirugía de ser necesario.
+
+- meta:
+    id: 24
+    slug: menopausia
+  category: Ginecología
+  name: Menopausia
+  cause: La menopausia puede deberse al deterioro natural de las hormonas reproductivas, cuando los ovarios no producen niveles normales de hormonas reproductivas, las cirugías para extirpar los ovarios, o por la efectos de la quimioterapia y radioterapia.
+  orientation: La menopausia es el momento que marca el final de los ciclos menstruales. En los Estados Unidos, la edad promedio que se produce es a los 51 años.
+  sintoms: ""
+  sintomList:
+    [
+      Períodos menstruales irregulares,
+      Sequedad vaginal,
+      Escalofríos,
+      Sudores nocturnos,
+      Problemas de sueño,
+      Cambios en estado de ánimo,
+      Aumento de peso y metabolismo lento,
+      Afinamiento del cabello y piel seca,
+      Pérdida de volumen en los senos,
+    ]
+  testExams: Los síntomas de la menopausia son suficientes para avisar a la mayoría de las mujeres que han comenzado la transición menopáusica. En algunos casos, es posible que te recomienden otros estudios.
+  treatment: "Los tratamientos de menopausia se enfocan en aliviar los síntomas y en prevenir o manejar los trastornos crónicos que pueden producirse con el envejecimiento. Ejemplos de estos: terapia hormonal, estrógeno vaginal, antidepresivos en dosis bajas, entre otros."
+
+- meta:
+    id: 25
+    slug: enfermedad-pelvica-inflamatoria
+  category: Ginecología
+  name: Enfermedad pélvica inflamatoria
+  cause: Muchas bacterias pueden causar enfermedad pélvica inflamatoria, pero las infecciones por gonorrea o clamidia son las más comunes. Por lo general, estas bacterias se contagian durante las relaciones sexuales sin protección.
+  orientation: La enfermedad pélvica inflamatoria es una infección de los órganos reproductores femeninos. Ocurre cuando bacterias de transmisión sexual se propagan de la vagina al útero, trompas de Falopio o los ovarios.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor leve a grave en parte baja del abdomen y la pelvis,
+      Flujo vaginal anormal o abundante,
+      Sangrado uterino anormal,
+      Dolor durante relaciones sexuales,
+      Fiebre,
+      Dolor o dificultad al orinar,
+    ]
+  testExams: Para el diagnóstico su médico se basará en una combinación de los signos que presentes, tus antecedentes médicos, un examen pélvico, análisis de sangre y orina, o una ecografía. Si el diagnóstico aún no está claro, se le pueden recomendar pruebas adicionales.
+  treatment: "El tratamiento inmediato con medicamentos puede eliminar la infección que causó el problema. En la mayoría de los casos, el tratamiento de la enfermedad pélvica inflamatoria incluye: antibióticos, abstinencia temporal y tratamientos para su pareja. "
+
+- meta:
+    id: 26
+    slug: sindrome-de-ovario-poliquistico
+  category: Ginecología
+  name: Síndrome de ovario poliquístico
+  cause: El síndrome de ovario poliquístico se puede dar a causa de su herencia, baja producción de glóbulos blancos para combatir infecciones, exceso de insulina y andrógeno.
+  orientation: El síndrome de ovario poliquístico es un trastorno hormonal común entre las mujeres en edad reproductiva que causa períodos menstruales infrecuentes o prolongados o niveles excesivos de hormonas masculinas.
+  sintoms: ""
+  sintomList:
+    [
+      Períodos menstruales irregulares,
+      Exceso de andrógeno,
+      Ovarios poliquísticos,
+    ]
+  testExams: Para diagnosticar el síndrome de ovario poliquístico su médico le preguntará sobre sus antecedentes médicos, incluidos tus períodos menstruales y cambios de peso. Su médico puede recomendarle un examen pélvico, análisis de sangre, o una ecografía.
+  treatment: El tratamiento se centra en hablar sobre sus inquietudes personales con temas como la infertilidad, el acné o la obesidad. Tratamientos específicos podrían requerir cambios en su estilo de vida o medicamentos.
+
+- meta:
+    id: 27
+    slug: sangrados-uterinos-irregulares
+  category: Ginecología
+  name: Sangrados uterinos irregulares
+  cause: "Los sangrados uterinos irregulares se presentan cuando los ovarios no liberan un óvulo. En muchas mujeres es causado por: desbalance hormonal, subir o perder peso en exceso, anticonceptivos hormonales, infección del útero o el cuello uterino, entre otros."
+  orientation: El sangrado uterino irregular es el sangrado de la vagina que ocurre con frecuencia o de manera irregular, o bien dura más que los periodos menstruales normales.
+  sintoms: ""
+  sintomList:
+    [
+      Mancha o sangrado entre sus períodos,
+      Sangrado después tener relaciones sexuales,
+      Sangrado por más días de lo normal,
+      Sangrado más abundante de lo normal,
+      Sangrado después de la menopausia,
+    ]
+  testExams: "Su médico le puede hacer varias pruebas que incluyen: examen pélvico, conteo sanguíneo completo, perfil de coagulación sanguínea, prueba de función hepática, prueba de glucosa en ayunas, pruebas hormonales, del embarazo y de la función tiroidea."
+  treatment: "El tratamiento para los sangrados uterinos irregulares incluye: pastillas anticonceptivas de dosis bajas, terapia hormonal, terapia de altas dosis de estrógenos, dispositivos intrauterinos, antiinflamatorios no esteroides, o hasta cirugías."
+
+- meta:
+    id: 28
+    slug: cancer-cervical
+  category: Ginecología
+  name: Cáncer cervical
+  cause: El cáncer cervical es causado por células en la cérvix que sufren mutaciones y crecen fuera de control, formando tumores y afectando los tejidos. Una de las causas principales del cáncer cervical es el virus papiloma humano (HPV).
+  orientation: El cáncer cervical es un tipo de cáncer que ocurre en las células de la cérvix, la parte inferior del útero que conecta con la vagina.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor,
+      Sangrado vaginal tras relaciones sexuales (entre períodos o después de la menopausia),
+      Flujo vaginal y con sangre que puede ser abundante y con olor,
+      Dolor pélvico o dolor durante relaciones sexuales,
+    ]
+  testExams: "Si se sospecha de cáncer, es probable que el médico comience con un examen completo del cuello uterino, y una prueba PAP donde el doctor obtiene una muestra de la cérvix y se examina para detectar anormalidades. Otras pruebas diagnósticas incluyen: biopsias, CT, MRI y PET."
+  treatment: El tratamiento del cáncer va a depender de varios factores, pero por lo general se tratan con la cirugía, la radiación, la quimioterapia.
+
+- meta:
+    id: 29
+    slug: cancer-de-seno
+  category: Ginecología
+  name: Cáncer de seno
+  cause: Aunque no hay causas definitivas, las más comunes son historial familiar de cáncer de seno, y factores de estilo de vida,  tales como alimentación, abuso de alcohol y reemplazo de hormonas.
+  orientation: El cáncer del seno es un tipo de cáncer que ocurre cuando las células del seno crecen fuera de control y se convierten en un tumor,  puede ocurrir en diferentes áreas del seno, como las glándulas de leche materna y pezones.
+  sintoms: ""
+  sintomList:
+    [
+      Masa o engrosamiento del seno,
+      Cambio en el tamaño o la forma del seno,
+      Secreción del pezón,
+      Piel enrojecida o inflamada en el área del pezón o seno,
+    ]
+  testExams: Su médico le hará una examen de sus senos y hará preguntas sobre su historial familiar y síntomas. Entre los estudios que se recomiendan están la mamografía, sonomamografía, PET y MRI.  Se recomienda hacerse un estudio de mamografía anual a toda mujer de más de 35 años.  Se recomienda hacerse exámenes manuales de forma preventiva para identificar cambios en los senos
+  treatment: Hay varios tratamientos para el cáncer del seno de acuerdo a la etapa de la enfermedad.  Puede incluir cirugía, radioterapia, medicamentos  y quimioterapia.
+
+- meta:
+    id: 30
+    slug: infecciones-de-oido-garganta
+  category: Otorrinolaringología
+  name: Infecciones de oído y garganta
+  cause: "Las infecciones de oído y garganta son causadas por virus en las respectivas áreas. Las infecciones pueden ser causadas por otras enfermedades como: alergias, gripe, mononucleosis, varicela, entre otras."
+  orientation: Las infecciones del oído y garganta pueden causar dolor e irritación y suelen desaparecer por sí solas.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor de oído o garganta,
+      Dolor que empeora al tragar o hablar,
+      Trastornos del sueño,
+      Inquietud,
+      Dificultad para oír o responder a los sonidos,
+      Dificultad al tragar,
+      Pérdida de equilibrio,
+      Fiebre,
+      Secreción de líquido del oído,
+      Dolor de cabeza,
+      Pérdida de apetito,
+      Amígdalas rojas e inflamadas,
+      Voz ronca o apagada,
+    ]
+  testExams: Tu doctor puede diagnosticar una infección de oído o garganta basándose en los síntomas que describes y un examen físico. Probablemente el doctor use un instrumento con luz (otoscopio) para mirar los oídos, la garganta, y los conductos nasales.
+  treatment: Algunas infecciones del oído desaparecen sin tratamiento con antibióticos, muchas duran entre 1-2 semanas y no requiere tratamiento médico. Para aliviar el dolor, muchas personas toman acetaminofén (Tylenol, otros) u otros analgésicos suaves.
+
+- meta:
+    id: 31
+    slug: desordenes-del-oido
+  category: Otorrinolaringología
+  name: Desórdenes del oído
+  cause: La trompa de Eustaquio va desde la parte media de cada oído hasta la parte posterior de la garganta. Si la trompa de Eustaquio resulta bloqueada esta acumula líquido y puede llevar a presión por detrás del tímpano o a una infección del oído.
+  orientation: El oído tiene tres partes principales (externo, medio e interno) y hay varias enfermedades que pueden afectar el oído o el equilibrio y causar problemas de audición.
+  sintoms: ""
+  sintomList:
+    [
+      Dolor de oído,
+      Fiebre,
+      Irritabilidad e Inquietud,
+      Problemas para dormir,
+      Secreción de líquido,
+    ]
+  testExams: Tu doctor puede diagnosticar desórdenes del oído basándose en los síntomas que describes durante un examen físico. Su médico también le puede hacer exámenes de oído, una timpanometría, o estimulación calórica para determinar la severidad.
+  treatment: El tratamiento de muchos desórdenes del oído sólo requieren esperar y ver. De ser necesario su médico puede recetar medicamentos como antibióticos o recomendar gotas anestésicas.
+
+- meta:
+    id: 32
+    slug: problemas-de-audicion
+  category: Otorrinolaringología
+  name: Problemas de audición
+  cause: "Las causas comunes de los problemas de audición son: daño al oído interno, acumulación de cera que bloquea el canal auditivo, tímpano roto a causa de ruidos muy fuertes, infecciones en el oído."
+  orientation: Los problemas de audición aparecen progresivamente a medida que uno envejece. Casi la mitad de las personas en los Estados Unidos mayores de 65 años tienen pérdida auditiva.
+  sintoms: ""
+  sintomList:
+    [
+      Amortiguación del habla y de otros sonidos,
+      Dificultad para comprender palabras,
+      Problema para oír las consonantes,
+      Pedirles a los demás que hablen más lento,
+      con mayor claridad y más alto,
+      Necesidad de subir el volumen de la televisión o radio,
+      Abstenerse de participar en las conversaciones,
+      Evitar algunos entornos sociales,
+    ]
+  testExams: "Las pruebas para diagnosticar los problemas de audición pueden ser: una exploración física, análisis para detección generales, pruebas de audición con aplicaciones, pruebas con diapasón, pruebas con audiómetro"
+  treatment: La mayoría de los tipos de pérdida auditiva son irreversibles. Sin embargo, el médico y tú pueden tomar algunas medidas para mejorar la audición.
+
+- meta:
+    id: 33
+    slug: sinusitis
+  category: Otorrinolaringología
+  name: Sinusitis
+  cause: "Por lo general, la sinusitis aguda es causada por una gripe común. En casos crónicos las causas pueden incluir: pólipos nasales, un tabique nasal desviado, infecciones de las vías respiratorias, alergias, entre otras."
+  orientation: La sinusitis es una inflamación de los tejidos dentro de la nariz.  Existe la sinusitis aguda, que es de duración corta  y crónica que es la que dura por meses a pesar del tratamiento.
+  sintoms: ""
+  sintomList:
+    [
+      Mucosidad espesa,
+      amarilla o verdosa en la nariz,
+      Congestión e inflamación nasal,
+      Dificultad para respirar por la nariz,
+      Dolor,
+      sensibilidad,
+      hinchazón y presión alrededor de los ojos o nariz,
+      Presión en el oído,
+      Dolor de cabeza,
+      Sentido del olfato alterado,
+      Toser y fiebre,
+      Mal aliento,
+      Fatiga,
+    ]
+  testExams: Para el diagnóstico su médico le preguntará sobre sus síntomas y le hará una examen físico. Su médico también puede optar por hacer pruebas sinusales o de alergias, endoscopia nasal, muestras de secreción nasal, o pruebas de imágenes.
+  treatment: Muchos casos de sinusitis se mejoran por sí solos, pero hay opciones de tratamiento como tomar descongestionantes, aerosol nasal de solución salina, medicamentos de alergia, corticoides nasales, entre otros.
+
+- meta:
+    id: 34
+    slug: alergias
+  category: Otorrinolaringología
+  name: Alergias
+  cause: Una alergia ocurre cuando tu sistema inmunitario confunde una sustancia normalmente inofensiva con un invasor peligroso. Cuando estás expuesto a esa sustancia nuevamente el cuerpo reacciona causando síntomas de alergia.
+  orientation: Cuando tienes alergias, tu sistema inmunitario produce anticuerpos que identifican a una sustancia extraña o un alimento en particular como dañino, incluso si no lo es.
+  sintoms: ""
+  sintomList:
+    [
+      Gotereo nasal,
+      Estornudos,
+      Picazón en garganta y nariz,
+      "Hinchazón (labios,rostro,lengua)",
+      Tos,
+      Erupción
+    ]
+  testExams: Para evaluar si tienes alguna alergia, su médico le hará una exploración física y puede hacerle pruebas de piel o un análisis de sangre. Si sospecha tener una alergia alimentaria es posible que le pidan que deje de comer el alimento durante la evaluación.
+  treatment: El mejor tratamiento para las alergias es evitar la sustancia que está causando el problema, también le pueden recetar medicamentos o inmunoterapia. Si tienes una alergia grave, es probable que debas llevar contigo una inyección de epinefrina de emergencia.
+
+- meta:
+    id: 35
+    slug: tumores-de-cabeza-y-cuello
+  category: Otorrinolaringología
+  name: Tumores de cabeza y cuello
+  cause: El uso de alcohol y de tabaco son los dos factores de riesgo más importantes en estos tumores. Algunos tipos de Virus del papiloma humano (HPV) han estado asociados a este tipo de cáncer
+  orientation: "Los tumores de cabeza y cuello son tumores malignos localizados en el área de la cabeza y cuello  incluyendo: amígdalas, paladar blando, base de lengua, cavidad oral y glándulas salivares."
+  sintoms: ""
+  sintomList:
+    [
+      Masas en el cuello,
+      boca o mandíbula,
+      Dificultad para tragar o respirar,
+      Dolor de cuello,
+      Úlceras en la boca,
+      Cambios en el tono de voz,
+    ]
+  testExams: El diagnóstico se realiza a través de una exploración física incluyendo la cabeza, cuello, dientes y boca.
+  treatment: La cirugía es el tratamiento primario de elección en tumores de la cabeza y el cuello. El objetivo principal de esta cirugía es extraer completamente el tumor y preservar todas las funciones del cuerpo.
+
+- meta:
+    id: 36
+    slug: vertigo
+  category: Otorrinolaringología
+  name: Vértigo
+  cause: Existen dos tipos de vértigo, el periférico y el central. El periférico se debe a un problema en la parte del oído interno que controla el equilibrio y el central se debe a un problema en el cerebro.
+  orientation: El vértigo es una sensación de movimiento o giros que a menudo se describe como mareo. Las personas con vértigo sienten como si realmente estuvieran girando o moviéndose.
+  sintoms: ""
+  sintomList:
+    [
+      Mareo,
+      Problemas para enfocar los ojos,
+      Pérdida de la audición en un oído,
+      Pérdida del equilibrio,
+      Náusea y vómito,
+      Dificultad para tragar,
+      Visión doble,
+      Parálisis facial,
+      Mala articulación del lenguaje,
+      Debilidad de las extremidades,
+    ]
+  testExams: Para determinar si padece de vértigo, su médico le podría hacer una prueba de caminata, un análisis de sangre, tomografía computarizada de la cabeza, resonancia magnética de la cabeza, una estimulación calórica, entre otras.
+  treatment: La maniobra de Epley, que consiste en colocar la cabeza en diferentes posiciones para ayudar a restablecer el equilibrio, es una forma de tratamiento para el vértigo. También se le pueden recetar medicamentos, fisioterapia, y hasta cirugía de ser necesario.
+
+- meta:
+    id: 37
+    slug: colesterol-alto
+  category: Medicina Interna
+  name: Colesterol alto
+  cause: Las causas más comunes de colesterol alto es un estilo de vida poco saludable, con mala alimentación, falta de actividad física y fumar. La edad, genética, algunas condiciones de salud y el peso son otros factores que pueden aumentar el riesgo de tener colesterol alto.
+  orientation: El colesterol es una sustancia parecida a la grasa, que se encuentra en todas las células del cuerpo. El colesterol es necesario en el cuerpo, pero si hay demasiado colesterol en la sangre, puede generar problemas en las arterias y el riesgo de sufrir una enfermedad cardíaca.
+  sintoms: ""
+  sintomList:
+    [
+        No presenta síntomas
+    ]
+  riskList:
+    [
+        Mala alimentación,
+        Obesidad,
+        Falta de ejercicio,
+        Tabaquismo (fumar),
+        Alcoholismo,
+        Edad,
+        Causas genéticas 
+    ]
+  testExams: El colesterol alto se estudia a través de un análisis de sangre llamado lipidograma (perfil lipídico). Por lo general, debes ayunar, es decir, no consumir comida ni líquidos que no sean agua entre 9-12 horas antes del análisis.
+  treatment: La mejor forma de reducir el colesterol alto es cambiar el estilo de vida, cómo hacer más ejercicio o comer más saludable. Sin embargo, si ya ha hecho esto y los niveles de colesterol siguen siendo altos, su médico podría recomendarle que tome medicamentos.
+
+- meta:
+    id: 38
+    slug: alta-presion
+  category: Medicina Interna
+  name: Alta presión
+  cause: "Por lo general, la presión alta suele desarrollarse gradualmente, las causas más comunes son:  exceso de sodio en la dieta,  edad, apnea de sueño,  obesidad,  falta de ejercicio,  uso de drogas o alcohol, mala alimentación y fumar. También otras enfermedades o condiciones pueden ser la causa de hipertensión"
+  orientation: La presión alta es la fuerza que ejerce la sangre contra las paredes de tus arterias. Si la presión arterial se mantiene alta por mucho tiempo,  hace que el corazón trabaje demasiado y puede ocasionar graves problemas de salud, como ataques cardíacos,  accidentes cerebrovasculares e insuficiencia cardiaca o renal.
+  sintoms: "Típicamente a alta presión no tiene síntomas, por lo tanto es importante hacer chequeos regulares de la presión.  Algunos de los síntomas asociados a la alta presión son:"
+  sintomList:
+    [
+      Dolor de cabeza fuerte,
+      Náuseas o vómitos,
+      Confusión,
+      Cambios en la visión,
+      Sangrado nasal,
+    ]
+  testExams: Su médico le preguntará por sus antecedentes y realizará una exploración física, luego le medirá la presión arterial con un tensiómetro. La presión arterial en general debe medirse en ambos brazos para determinar si hay alguna diferencia.
+  treatment: Cambios en su dieta, actividad física, consumo de alcohol y mantener un peso saludable puede ayudar a controlar la presión alta. Si esto no ayuda, su médico puede recomendarte medicamentos para bajar la presión arterial.
+
+- meta:
+    id: 39
+    slug: copd
+  category: Medicina Interna
+  name: COPD
+  cause: La principal causa de la COPD es el uso de tabaco para fumadores crónicos. La COPD también ocurre en personas expuestas a humos que se queman para cocinar o calentar hogares mal ventilados.
+  orientation: La enfermedad pulmonar obstructiva crónica (EPOC o COPD) es una enfermedad pulmonar inflamatoria crónica que provoca la obstrucción del flujo de aire de los pulmones.  Enfisema y bronquitis crónica son las dos condiciones más comunes que contribuyen a COPD.
+  sintoms: ""
+  sintomList: [
+    Dificultad para respirar,
+    Presión en el pecho,
+    Tos crónica que puede producir mucosidad,
+    Infecciones respiratorias frecuentes,
+    Falta de energía,
+    Pérdida de peso involuntaria,
+    "Hinchazón en tobillos, pies o piernas"
+  ]
+  testExams: Es posible que a las personas con COPD no se les diagnostique hasta que la enfermedad esté avanzada. Su médico le puede recomendar pruebas de función pulmonar, radiografía de pecho, tomografía computarizada, análisis de gases en sangre arterial, pruebas de laboratorio.
+  treatment: La forma más eficaz para tratar la COPD es dejar de fumar ya que evita que la condición empeore y afecte su respiración. Su médico también puede recomendarle medicamentos, terapias pulmonares, entre otras opciones.
+
+- meta:
+    id: 40
+    slug: Anemia
+  category: Medicina Interna
+  name: anemia
+  cause: La anemia puede deberse a una afección presente al nacer (congénita) o a una afección que se desarrolla (adquirida). Esto sucede si el cuerpo no produce suficientes glóbulos rojos, pérdida de glóbulos rojos, el cuerpo destruye glóbulos rojos.
+  orientation: La anemia es una afección en la cual no tienes suficientes glóbulos rojos sanos para transportar un nivel adecuado de oxígeno a los tejidos del cuerpo.
+  sintoms: ""
+  sintomList: [
+    Debilidad,
+    Fatiga,
+    Piel pálida o amarillenta,
+    Latidos del corazón irregulares,
+    Dificultad para respirar,
+    Mareos,
+    Dolor en el pecho,
+    Manos y pies fríos,
+    Dolores de cabeza
+  ]
+  testExams: "Para diagnosticar la anemia tu médico te preguntará sobre tus antecedentes médicos y familiares, te hará un examen físico y realizará las siguientes pruebas: Hemograma completo y un examen para determinar el tamaño y forma de los glóbulos rojos."
+  treatment: "El tratamiento va a depender del tipo de anemia que tengas, pero opciones comunes incluyen: cambios en alimentación/dieta, suplementos de hierro, transfusiones de sangre, inyecciones de hormonas, quimioterapia, trasplante de médula ósea, entre otros."
+
+- meta:
+    id: 41
+    slug: lesiones-deportivas
+  category: Medicina Física
+  name: Lesiones deportivas
+  cause: La causa de una lesión deportiva es una fuerza de impacto mayor de la que esa parte del cuerpo puede soportar. En el caso de lesiones crónicas generalmente ocurren después de repetir el mismo movimiento constantemente.
+  orientation: Las lesiones deportivas son las que ocurren durante los deportes o el ejercicio, como esguinces, torceduras y fracturas. Estas lesiones afectan a los músculos, tendones, ligamentos y los huesos.
+  sintoms: ""
+  sintomList: [
+    Dolor intenso y repentino,
+    Moretones o hinchazón,
+    "No poder poner peso sobre una pierna, rodilla, tobillo o pie",
+    No poder mover una articulación normalmente,
+    Debilidad de una extremidad lesionada,
+    Un hueso o articulación que parece estar fuera de lugar
+  ]
+  testExams: Para el diagnóstico de lesiones deportivas su médico le podrá hacer pruebas como ecografía, radiografía, resonancia magnética (MRI), artroscopia, entre otras.
+  treatment: El tratamiento de su lesión dependerá de su severidad. En muchos casos se pueden resolver con medicamentos y fisioterapias, pero de ser necesario es posible que necesite tratamientos biológicos o cirugías. 
+
+- meta:
+    id: 26
+    slug: parkinson
+  category: Medicina Física
+  name: Parkinson
+  cause: Cuando se padece de Parkinson, algunas células nerviosas (neuronas) del cerebro se descomponen o mueren progresivamente. Esto causa una actividad cerebral anormal, lo que conduce a movimientos debilitantes  y otros síntomas de la enfermedad.
+  orientation: El Parkinson es una enfermedad progresiva del sistema nervioso que afecta el movimiento corporal, creando dificultad para caminar, balance y coordinación.  Típicamente sus síntomas van progresando gradualmente.
+  sintoms: ""
+  sintomList: [
+    Temblores,
+    Lentitud en los movimientos,
+    Rigidez muscular,
+    Alteración de la postura y equilibrio,
+    Pérdida de movimientos automáticos,
+    Cambios en el habla,
+    Cambios en la escritura
+  ]
+  testExams: No existe ningún examen específico para diagnosticar la enfermedad. El médico diagnosticará la enfermedad de Parkinson según tus antecedentes médicos, un análisis de los síntomas, y una exploración física y neurológica.
+  treatment: La enfermedad de Parkinson no tiene cura, pero los medicamentos pueden ayudar a controlar los síntomas. Su médico también puede recomendar cambios de estilo de vida, como ejercicios aeróbicos. En casos más avanzados, se puede aconsejar la cirugía.
+
+- meta:
+    id: 42
+    slug: disfuncion-del-suelo-pelvico
+  category: Medicina Física
+  name: Disfunción del suelo pélvico
+  cause: "Las causas principales de la disfunción del suelo pélvico pueden ser:  traumas en la columna vertebral, cirugías,  infecciones del tracto urinario, obesidad y colon irritable"
+  orientation: La disfunción del suelo pélvico es un grupo de trastornos que cambian la manera en que las personas tienen movimientos intestinales y a veces causan dolor pélvico.
+  sintoms: ""
+  sintomList: [
+    "Sensación de pesadez, hinchazón o dolor en la vagina",
+    Dificultad para comenzar a orinar o vaciar la vejiga,
+    Infecciones del tracto urinario frecuentes,
+    "Pérdidas de orina al reír, toser o hacer ejercicio",
+    Necesidad urgente o frecuente de orinar,
+    Dolor al orinar,
+    Pérdidas de materia fecal o dificultad para controlar gases,
+    Estreñimiento,
+    Dificultad para llegar al baño a tiempo
+  ]
+  testExams: "Para diagnosticar una disfunción del suelo pélvico un examen físico podría ser suficiente. Dependiendo de la seriedad del caso se hacen pruebas como: manometría anal, cistoscopia, ultrasonido endoanal, estudio urodinámico."
+  treatment: Muchas veces estos casos se tratan con medicamentos, inyecciones para problemas de control de la vejiga, o entrenamiento de los músculos. Pero de ser necesario, la cirugía podría ser una opción.

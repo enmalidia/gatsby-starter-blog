@@ -1,0 +1,404 @@
+{
+  "header": "Directorio de enfermedades",
+  "title": "Condiciones de salud",
+  "description": "Contamos con profesionales especializados en medicina de familia, medicina de emergencia, Medicina interna, pediatría, enfermería y administración.",
+  "details": "",
+
+  "keys": [
+    {
+      "key": "Todas",
+      "id": "All"
+    },
+    {
+      "key": "A",
+      "id": "A"
+    },
+    {
+      "key": "B",
+      "id": "B"
+    },
+    {
+      "key": "C",
+      "id": "C"
+    },
+    {
+      "key": "D",
+      "id": "D"
+    },
+    {
+      "key": "E",
+      "id": "E"
+    },
+    {
+      "key": "F",
+      "id": "F"
+    },
+    {
+      "key": "H",
+      "id": "H"
+    },
+    {
+      "key": "I",
+      "id": "I"
+    },
+    {
+      "key": "L",
+      "id": "L"
+    },
+    {
+      "key": "O",
+      "id": "O"
+    },
+    {
+      "key": "P",
+      "id": "P"
+    },
+    {
+      "key": "R",
+      "id": "R"
+    },
+    {
+      "key": "S",
+      "id": "S"
+    },
+    {
+      "key": "T",
+      "id": "T"
+    },
+    {
+      "key": "U",
+      "id": "U"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Seleccione",
+      "id": "All"
+    },
+    {
+      "name": "Colorrectal",
+      "id": "Colorrectal"
+    },
+    {
+      "name": "Endocrinología",
+      "id": "Endocrinología"
+    },
+    {
+      "name": "Ginecología",
+      "id": "Ginecología"
+    },
+    { "name": "Medicina física", "id": "Medicina física" },
+    { "name": "Medicina interna", "id": "Medicina interna" },
+    {
+      "name": "Ortopedia",
+      "id": "Ortopedia"
+    },
+    {
+      "name": "Otorrinolaringología",
+      "id": "Otorrinolaringología"
+    }
+  ],
+  "cards": [
+    {
+      "title": "Artritis",
+      "category": "Ortopedia",
+      "slug": "artritis",
+      "keyId": "A",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Fracturas",
+      "category": "Ortopedia",
+      "slug": "fracturas",
+      "keyId": "F",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Escoliosis",
+      "category": "Ortopedia",
+      "slug": "escoliosis",
+      "keyId": "E",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Cartílagos rasgados",
+      "category": "Ortopedia",
+      "slug": "cartilagos-rasgados",
+      "keyId": "C",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Tendinitis",
+      "category": "Ortopedia",
+      "slug": "tendinitis",
+      "keyId": "T",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Bursitis",
+      "category": "Ortopedia",
+      "slug": "bursitis",
+      "keyId": "B",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Osteoporosis",
+      "category": "Ortopedia",
+      "slug": "osteoporosis",
+      "keyId": "O",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Condiciones de espalda, rodilla y hombros",
+      "category": "Ortopedia",
+      "slug": "condiciones-de-espalda-rodilla-hombros",
+      "keyId": "C",
+      "catId": "Ortopedia"
+    },
+    {
+      "title": "Diabetes",
+      "category": "Endocrinología",
+      "slug": "diabetes",
+      "keyId": "D",
+      "catId": "Endocrinología"
+    },
+    {
+      "title": "Hipertiroidismo",
+      "category": "Endocrinología",
+      "slug": "hipertiroidismo",
+      "keyId": "H",
+      "catId": "Endocrinología"
+    },
+    {
+      "title": "Hipotiroidismo",
+      "category": "Endocrinología",
+      "slug": "hipotiroidismo",
+      "keyId": "H",
+      "catId": "Endocrinología"
+    },
+    {
+      "title": "Hipoglucemia",
+      "category": "Endocrinología",
+      "slug": "hipoglucemia",
+      "keyId": "H",
+      "catId": "Endocrinología"
+    },
+    {
+      "title": "IBS",
+      "category": "Colorrectal",
+      "slug": "ibs",
+      "keyId": "I",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Estreñimiento",
+      "category": "Colorrectal",
+      "slug": "estrenimiento",
+      "keyId": "E",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Hemorroides",
+      "category": "Colorrectal",
+      "slug": "hemorroides",
+      "keyId": "H",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Colitis",
+      "category": "Colorrectal",
+      "slug": "colitis",
+      "keyId": "C",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Diverticulosis",
+      "category": "Colorrectal",
+      "slug": "diverticulosis",
+      "keyId": "D",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Cáncer del colon",
+      "category": "Colorrectal",
+      "slug": "cancer-del-colon",
+      "keyId": "C",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Pólipos en el colon",
+      "category": "Colorrectal",
+      "slug": "polipos-en-el-colon",
+      "keyId": "P",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "Crohns",
+      "category": "Colorrectal",
+      "slug": "crohns",
+      "keyId": "C",
+      "catId": "Colorrectal"
+    },
+    {
+      "title": "UTI",
+      "category": "Ginecología",
+      "slug": "uti",
+      "keyId": "U",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Fibromas",
+      "category": "Ginecología",
+      "slug": "fibromas",
+      "keyId": "F",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Endometriosis ",
+      "category": "Ginecología",
+      "slug": "endometriosis ",
+      "keyId": "E",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Menopausia",
+      "category": "Ginecología",
+      "slug": "menopausia",
+      "keyId": "M",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Enfermedad pélvica inflamatoria",
+      "category": "Ginecología",
+      "slug": "enfermedad-pelvica-inflamatoria",
+      "keyId": "E",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Síndrome de ovario poliquístico",
+      "category": "Ginecología",
+      "slug": "sindrome-de-ovario-poliquistico",
+      "keyId": "S",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Sangrados uterinos irregulares",
+      "category": "Ginecología",
+      "slug": "sangrados-uterinos-irregulares",
+      "keyId": "S",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Cáncer cervical",
+      "category": "Ginecología",
+      "slug": "cancer-cervical ",
+      "keyId": "C",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Cáncer de seno",
+      "category": "Ginecología",
+      "slug": "cancer-de-seno",
+      "keyId": "C",
+      "catId": "Ginecología"
+    },
+    {
+      "title": "Infecciones de oído y garganta",
+      "category": "Otorrinolaringología",
+      "slug": "infecciones-de-oido-garganta",
+      "keyId": "I",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Desórdenes del oído",
+      "category": "Otorrinolaringología",
+      "slug": "desordenes-del-oido",
+      "keyId": "D",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Problemas de audición",
+      "category": "Otorrinolaringología",
+      "slug": "problemas-de-audicion",
+      "keyId": "P",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Sinusitis",
+      "category": "Otorrinolaringología",
+      "slug": "sinusitis",
+      "keyId": "S",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Alergias",
+      "category": "Otorrinolaringología",
+      "slug": "alergias",
+      "keyId": "A",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Tumores de cabeza y cuello",
+      "category": "Otorrinolaringología",
+      "slug": "tumores-de-cabeza-y-cuello",
+      "keyId": "T",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Vértigo",
+      "category": "Otorrinolaringología",
+      "slug": "vertigo",
+      "keyId": "V",
+      "catId": "Otorrinolaringología"
+    },
+    {
+      "title": "Colesterol alto",
+      "category": "Medicina interna",
+      "slug": "colesterol-alto",
+      "keyId": "C",
+      "catId": "Medicina interna"
+    },
+    {
+      "title": "Alta presión",
+      "category": "Medicina interna",
+      "slug": "alta-presion",
+      "keyId": "A",
+      "catId": "Medicina interna"
+    },
+    {
+      "title": "COPD",
+      "category": "Medicina interna",
+      "slug": "copd",
+      "keyId": "C",
+      "catId": "Medicina interna"
+    },
+    {
+      "title": "Anemia",
+      "category": "Medicina interna",
+      "slug": "anemia",
+      "keyId": "A",
+      "catId": "Medicina interna"
+    },
+    {
+      "title": "Lesiones deportivas",
+      "category": "Medicina física",
+      "slug": "lesiones-deportivas",
+      "keyId": "L",
+      "catId": "Medicina física"
+    },
+    {
+      "title": "Parkinson",
+      "category": "Medicina física",
+      "slug": "parkinson",
+      "keyId": "P",
+      "catId": "Medicina física"
+    },
+    {
+      "title": "Disfunción del suelo pélvico",
+      "category": "Medicina física",
+      "slug": "disfuncion-del-suelo-pelvico",
+      "keyId": "D",
+      "catId": "Medicina física"
+    }
+  ]
+}

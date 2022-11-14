@@ -1,0 +1,38 @@
+{
+  "title": "historias de ashford",
+  "phrase": "Trabajamos para recibir la aprobación y agradecimiento de nuestros pacientes en cada interación.",
+  "items": [
+    {
+      "key": "1",
+      "title": "Maydelise Columna - Paciente del Centro de la mujer",
+      "description": "​​Gracias a un chequeo de rutina detectó el cáncer a tiempo",
+      "details": "No importa tu edad, los chequeos rutinarios son vitales para cualquier prevención. El año pasado tuve la sorpresa de encontrar un hallazgo categoría 3 aquí en el Hospital, entre la tecnología y el gran equipo de empleados, el servicio fue excelente y 100% recomendado.",
+      "buttonText": "Conocer más",
+      "link":"https://www.facebook.com/ashfordhospitalpr/videos/118273369548118"
+    },
+    {
+      "key": "2",
+      "title": "Natalie y Daniel - Pacientes de Ginecología y sala de partos",
+      "description": "Luego de tres pérdidas en el vientre, Dios les tenía preparada una sorpresa",
+      "details": "Nosotros después de casarnos añoramos ser papás, pero luego de esa tercera despedida perdimos la esperanza de ser padres biológicos. Sin embargo, a veces cuando la ciencia dice que algo es imposible Dios dice “¡ahí voy a hacerlo posible!",
+      "buttonText": "Conocer más",
+      "link":"https://www.facebook.com/ashfordhospitalpr/videos/172397934860141/"
+    },
+    {
+      "key": "3",
+      "title": "Dra. Rosa Bonilla - Directora NICU Nivel 3",
+      "description": "Conoce la hermosa historia de Itzán Nikolas",
+      "details": "Itzán Nikolas nació a término, pero rápido nos dimos cuenta que las cosas no iban bien y estuvo entubado aproximadamente un mes. Uno de los días más emotivos para mi es cuando vi a la mamá hincada frente al divino niño orando. Dios y la ciencia nos escucharon.",
+      "buttonText": "Conocer más",
+      "link":"https://www.facebook.com/ashfordhospitalpr/videos/1443324635868093 "
+    },
+    {
+      "key": "4",
+      "title": "Elizabeth De Jesús - Sobreviviente de COVID-19",
+      "description": "Una asociada del hospital nos habla de su experiencia con el virus",
+      "details": "Sentí temor porque no sabía lo que me iba a enfrentar de primera intención. Me pasaron muchas cosas por la mente, como mi familia o como mi cuerpo va a reaccionar. Llega un momento que uno se siente caer, pero es importante nunca perder la fe.",
+      "buttonText": "Conocer más",
+      "link":"https://www.facebook.com/ashfordhospitalpr/videos/370046680622508"
+    }
+  ]
+}

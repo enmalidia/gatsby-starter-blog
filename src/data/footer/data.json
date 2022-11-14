@@ -1,0 +1,188 @@
+{
+  "contact": {
+    "name": "Ashford Hospital",
+    "address": "1451 Ave Dr Ashford,\n00907, San Juan, Puerto Rico",
+    "links": [
+      {
+        "id": 0,
+        "title": "Contacto",
+        "link": "/contacto"
+      },
+      {
+        "id": 1,
+        "title": "Sobre nosotros",
+        "link": "/nosotros"
+      },
+      {
+        "id": 3,
+        "title": "Equipo",
+        "link": "/equipo"
+      },
+      {
+        "id": 4,
+        "title": "Portal de pago",
+        "link": "https://ashford.pagospr.com/"
+      }
+    ],
+    "social": {
+      "facebook": "https://es-la.facebook.com/ashfordhospitalpr/",
+      "linkedin": "https://www.linkedin.com/company/ashfordhospital/?originalSubdomain=pr",
+      "twiter": "https://twitter.com/ashfordpr",
+      "instagram": "https://www.instagram.com/ashfordhospitalpr/?hl=es"
+    }
+  },
+  "sectionOneList": {
+    "header": "Servicios y especialidades",
+    "items": [
+      {
+        "id": "se-1",
+        "title": "Radiología/Centro de imágenes",
+        "link": "/servicios#radiologia_centro-de-imagenes"
+      },
+      {
+        "id": "se-2",
+        "title": "Medicina nuclear y centro de cardiología",
+        "link": "/servicios#medicina-nuclear_centro-de-cardiologia"
+      },
+      {
+        "id": "se-3",
+        "title": "Laboratorio",
+        "link": "/servicios#laboratorio"
+      },
+      {
+        "id": "se-4",
+        "title": "Centro de medicina física y rehabilitación",
+        "link": "/servicios#centro-de-medicina-fisica_rehabilitacion"
+      },
+      {
+        "id": "se-5",
+        "title": "Cuidado de heridas",
+        "link": "/servicios#cuidado-de-heridas"
+      },
+      {
+        "id": "se-6",
+        "title": "Ashford Prenatal",
+        "link": "/servicios#centro-prenatal"
+      },
+      {
+        "id": "se-7",
+        "title": "Centro de la mujer",
+        "link": "/servicios#centro-de-la-mujer"
+      },
+      {
+        "id": "se-8",
+        "title": "Centro de vacunación",
+        "link": "/servicios#centro-de-vacunacion"
+      },
+      {
+        "id": "se-9",
+        "title": "Farmacia de la comunidad",
+        "link": "/servicios#farmacia-de-la-comunidad"
+      },
+      {
+        "id": "se-10",
+        "title": "Obstetricia, ginecología y ginecología oncológica",
+        "link": "/especialidades#obstetricia_ginecologia_ginecologia-oncologica"
+      },
+      {
+        "id": "se-11",
+        "title": "Unidad de cuidado intensivo neonatal",
+        "link": "/especialidades#unidad-de-cuidado-intensivo-neonatal"
+      },
+      {
+        "id": "se-12",
+        "title": "Cirugía colorrectal",
+        "link": "/especialidades#cirugia-colorrectal"
+      },
+      {
+        "id": "se-13",
+        "title": "Ortopedia",
+        "link": "/especialidades#ortopedia"
+      },
+      {
+        "id": "se-14",
+        "title": "Medicina deportiva",
+        "link": "/especialidades#medicina-deportiva"
+      },
+      {
+        "id": "se-15",
+        "title": "Otorrinolaringologia",
+        "link": "/especialidades#otorrinolaringologia"
+      },
+      {
+        "id": "se-16",
+        "title": "Endocrinología",
+        "link": "/especialidades#endocrinologia"
+      },
+      {
+        "id": "se-17",
+        "title": "Cirugía general",
+        "link": "/especialidades#cirugia-general"
+      },
+      {
+        "id": "se-18",
+        "title": "Cirugía oncológica",
+        "link": "/especialidades#cirugia-oncologica"
+      },
+      {
+        "id": "se-19",
+        "title": "Pediatría",
+        "link": "/especialidades#pediatria"
+      },
+      {
+        "id": "se-20",
+        "title": "Urología",
+        "link": "/especialidades#urologia"
+      }
+    ]
+  },
+
+  "sectionTwoList": {
+    "header": "Para pacientes",
+    "items": [
+      {
+        "id": "p-1",
+        "title": "Condiciones",
+        "link": "/condiciones"
+      },
+      {
+        "id": "p-2",
+        "title": "Directorio médico",
+        "link": "/directorio"
+      },
+      {
+        "id": "p-3",
+        "title": "Guía para pacientes",
+        "link": "/guia"
+      },
+      {
+        "id": "p-4",
+        "title": "Admisiones y pre-admisiones",
+        "link": "/admision"
+      },
+      {
+        "id": "p-5",
+        "title": "Testimonios",
+        "link": "/testimonios"
+      }
+    ]
+  },
+  "copyright": " Copyright © 2022. Ashford Hospital",
+  "rates": {
+    "title": "Lista comprensiva de cargos del Hospital Ashford",
+    "link": "/Ashford_tarifas.pdf"
+  },
+  "policies": [
+    {
+      "id": 0,
+      "title": "Política de privacidad",
+      "link": "/privacidad"
+    },
+    {
+      "id": 1,
+      "title": "Política de conflictos de interés",
+      "link": "/POLITICA CONFLICTO INTERES (VERSION ESPANOL RRB).pdf",
+      "document": true
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "spe1": {
+    "anchorName": "obstetricia_ginecologia_ginecologia-oncologica",
+    "header": "Especialidades",
+    "title": "Obstetricia, ginecología y ginecología oncológica",
+    "description": "Cuidamos por la salud de la mujer en todo momento",
+    "details": "Nuestra facultad médica está integrada por obstetras,  ginecólogos, perinatólogos  y ginecólogos oncólogos de vasta experiencia preparados para prevenir y tratar cualquier condición ginecológica. Nuestros obstetras y perinatólogos están preparados para atender partos, así como condiciones de alto riesgo en el embarazo. Anualmente, el Hospital Ashford es el hospital privado de Puerto Rico donde nacen más bebés y  la primera institución hospitalaria en Puerto Rico que ha sido certificada como “Hospital Amigo del Niño.",
+    "listTitle": "Conoce Más:",
+    "list": [
+      [
+        { "id": 1, "text": "Alumbra Maternity Suites" },
+        { "id": 2, "text": "Parents To Be" },
+        { "id": 3, "text": "Proyecto Lacta" }
+      ]
+    ]
+  },
+  "spe2": {
+    "anchorName": "unidad-de-cuidado-intensivo-neonatal",
+    "header": "ESPECIALIDAD",
+    "title": "Unidad de cuidado intensivo neonatal",
+    "description": "El cuidado de un recién nacido prematuro requiere atención personalizada y protocolos rigurosos para asegurar el desarrollo saludable de cada bebe.",
+    "details": "La unidad de cuidado intensivo neonatal del Hospital Ashford fue creada específicamente para atender las necesidades médicas de los recién nacidos prematuros con servicios altamente especializados y neonatologos que proveen sus servicios las 24 horas del día.  Somos el único hospital privado en el área metropolitana que tiene una unidad NICU nivel 3",
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "hours",
+          "text": "Todos los días de 11:30am - 2:00pm y de 4:00pm - 8:00pm"
+        },
+        {
+          "id": 2,
+          "type": "phone",
+          "text": "(787) 721-2160, ext. 3411",
+          "value": "787-721-2160"
+        }
+      ]
+    }
+  },
+  "spe3": {
+    "anchorName": "cirugia-colorrectal",
+    "header": "ESPECIALIDAD",
+    "title": "Cirugía colorrectal",
+    "description": "¿Se ha hecho sus pruebas de detección para el cáncer colorrectal?",
+    "details": "La medicina colorrectal se dedica al diagnóstico y tratamiento de condiciones del colon, recto y ano. Nuestra clínica es el único centro colorrectal de la isla con cirujanos entrenados para realizar microcirugía transanal endoscópica. Contamos con especialistas en las destrezas de cirugía laparoscópica o mínimamente invasivas y nos distinguimos por ser el único centro experimentado en el tratamiento de incontinencia fecal.",
+    "list": [
+      [
+        {
+          "id": 1,
+          "text": "Consulte nuestro directorio médico para información sobre nuestros especialistas",
+          "href": "/directorio"
+        }
+      ]
+    ]
+  },
+  "spe4": {
+    "anchorName": "ortopedia",
+    "header": "ESPECIALIDAD",
+    "title": "Ortopedia",
+    "description": "",
+    "details": "El equipo de ortopedia del Hospital Ashford es el más completo y preparado para tratar condiciones musculoesqueletales. Nuestra Facultad de Ortopedia está enfocada en proveer servicios personalizados para lograr resultados óptimos en cada caso. Ofrecemos servicios integrados desde el  diagnósticos con evaluación y pruebas, servicios de Centro de Imágenes y radiología y un centro completo de terapia física y rehabilitación.  En el Hospital Ashford contamos con cirujanos ortopedas capacitados para todas las subespecialidades en este campo. Nuestro equipo de expertos en cirugía ortopédica utiliza las últimas técnicas y tecnologías para asistirle durante el proceso de diagnóstico, cirugía y recuperación.",
+    "list": [
+      [
+        { "id": 1, "text": "Cirujanos de hombro" },
+        { "id": 2, "text": "Cirujanos de reconstrucción" },
+        { "id": 3, "text": "Cirujanos de reemplazo de rodilla y cadera" }
+      ],
+      [
+        { "id": 1, "text": "Especialistas en traumas" },
+        { "id": 2, "text": "Especialistas en fracturas" },
+        {
+          "id": 3,
+          "href": "/directorio",
+          "text": "Consulte nuestro directorio médico para información sobre nuestros especialistas"
+        }
+      ]
+    ]
+  },
+  "spe5": {
+    "anchorName": "medicina-deportiva",
+    "header": "ESPECIALIDAD",
+    "title": "Medicina deportiva",
+    "description": "",
+    "details": "La medicina deportiva es la especialidad médica que estudia los efectos del ejercicio, deporte y la actividad física en el cuerpo humano. Nuestro equipo se encarga de preparar y optimizar la condición del cuerpo a través del cuidado, asesoramiento, diagnóstico y tratamiento necesario para practicar deportes de forma segura.",
+    "list": [
+      [
+        {
+          "id": 1,
+          "text": "Prevención y tratamiento de lesiones relacionadas con el deporte"
+        },
+        { "id": 2, "text": "Control y seguimiento del rendimiento deportivo" },
+        { "id": 3, "text": "Consejos sobre nutrición y estilo de vida" }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 722-2915 o al 721-2160, ext. 1022 ó 1021",
+          "value": "787-722-2915"
+        }
+      ]
+    }
+  },
+  "spe6": {
+    "anchorName": "otorrinolaringologia",
+    "header": "ESPECIALIDAD",
+    "title": "Otorrinolaringología",
+    "description": "",
+    "details": "En nuestra clínica integral de otorrinolaringología ofrecemos evaluación y manejo de las condiciones crónicas y quirúrgicas de pacientes con enfermedades del oído, nariz, garganta y estructuras relacionadas de la cabeza y del cuello. Ofrecemos servicios de otorrinolaringología general, otología y neurotología, cirugía de tiroides, paratiroides y adrenales, entre otros.",
+    "list": [
+      [
+        { "id": 1, "text": "Remover adenoides y amígdalas" },
+        {
+          "id": 2,
+          "text": "Cirugías para extirpar y tratar masas en el cuello"
+        },
+        {
+          "id": 3,
+          "text": "Cirugías de la laringe para diagnosticar y tratar condiciones de la voz"
+        }
+      ],
+      [
+        { "id": 1, "text": "Audífonos implantables" },
+        { "id": 2, "text": "Implantes cocleares" },
+        { "id": 3, "text": "Laringoscopia" },
+        { "id": 4, "text": "Nasofaringoscopía" },
+        { "id": 5, "text": "Endoscopia nasal" },
+        { "id": 6, "text": "Exámenes otoendoscópicos, entre otros" }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "hours",
+          "text": "Lunes y Martes de 8:00am - 3:00pm; miércoles y viernes: de 7:00am - 12:00pm"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Primer piso del condominio Ada Ligia"
+        }
+      ]
+    }
+  },
+  "spe7": {
+    "anchorName": "endocrinologia",
+    "header": "ESPECIALIDAD",
+    "title": "Endocrinología",
+    "description": "",
+    "details": "El centro endocrinológico cuenta con tecnología innovadora, personal de vasta experiencia y un grupo de médicos especializados en endocrinología. Atendemos condiciones como hipotiroidismo, hipertiroidismo, páncreas endocrino, diabetes, entre otros.",
+    "list": [
+      [
+        { "id": 1, "text": "Pruebas diagnósticas, PET-CT, SPECT-CT" },
+        { "id": 2, "text": "Biopsias de cabeza y cuello" },
+        {
+          "id": 3,
+          "text": "Biopsias de tiroides y paratiroides por citopunción con aguja fina (FNA)"
+        },
+        { "id": 4, "text": "Patología" },
+        { "id": 5, "text": "Cirugía de tiroides, paratiroides y adrenales" }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "hours",
+          "text": "Lunes y martes de 8:00am-3:00pm; miércoles y viernes de 7:00am-12:00pm"
+        },
+        {
+          "id": 2,
+          "type": "hours",
+          "text": "Lunes a viernes de 8:00am – 4:00pm"
+        }
+      ]
+    }
+  },
+  "spe8": {
+    "anchorName": "cirugia-general",
+    "header": "ESPECIALIDAD",
+    "title": "Cirugía general",
+    "description": "",
+    "details": "Experiencia, innovación y reputación son algunas de las características que definen nuestra Facultad Médica de Cirugía. Tenemos un equipo de cirugías de primera, con vasta experiencia para proveer soluciones y alternativas para mejorar su calidad de vida y su salud. Nuestras salas quirúrgicas operan las 24 horas y 365 días del año. Nuestro personal de enfermería es altamente cualificado y competente para ofrecer siempre el mejor servicio.",
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "hours",
+          "text": "Lunes a viernes de 7:00am - 3:00pm"
+        },
+        {
+          "id": 2,
+          "type": "phone",
+          "text": "(787) 721-2160, ext. 6617",
+          "value": "787-721-2160"
+        }
+      ]
+    }
+  },
+  "spe9": {
+    "anchorName": "cirugia-oncologica",
+    "header": "ESPECIALIDAD",
+    "title": "Cirugía oncológica",
+    "description": "",
+    "details": "La cirugía oncológica es la especialidad médica enfocada en la prevención, diagnóstico, tratamiento quirúrgico y seguimiento de los pacientes con tumores, sea un cáncer benigno o maligno. Nuestros oncólogos están a la vanguardia de los tratamientos y terapias innovadoras para manejar cada caso de forma individualizada y precisa y así  lograr resultados efectivos. Estamos enfocados a proveer a cada paciente un servicio de la mayor calidad, empatía y humanidad.",
+    "listTitle": "Opciones de tratamiento oncológico:",
+    "list": [
+      [
+        { "id": 1, "text": "Quimioterapia" },
+        { "id": 2, "text": "Radioterapia" },
+        { "id": 3, "text": "Trasplante de médula ósea" },
+        { "id": 3, "text": "Inmunoterapia" }
+      ]
+    ]
+  },
+  "spe10": {
+    "anchorName": "pediatria",
+    "header": "ESPECIALIDAD",
+    "title": "Pediatría",
+    "description": "",
+    "details": "En el Hospital Ashford nos encantan los niños y tenemos el Departamento de Pediatría con el más avanzado equipo técnico y el respaldo del mejor equipo de pediatras en toda la Isla.  Nuestro compromiso con las familias es proveer respuestas y tratamientos que les provean paz mental para que sus niños siempre estén saludables y felices. El Ashford también cuenta con una amplia sala de emergencias pediátricas para ofrecerte un servicio de calidad y excelencia.",
+    "contact": {
+      "header": "Información, ubicación y horarios:",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2160, ext. 2103 o 2104",
+          "value": "787-721-2160"
+        }
+      ]
+    },
+    "qr": {
+      "imageAlt": "Listado de Médicos/as Pediatras",
+      "bgColor": "white",
+      "header": "Listado de Médicos/as Pediatras",
+      "text": "En tu teléfono, abre la app de la cámara. Apunta la cámara hacia el código QR. Presiona el banner que aparece en tu teléfono y podrás acceder a la lista de Médicos pediatras de Ashford.",
+      "url": "/ASHFORD-DIRECTORIO-DE-MEDICOS-PEDIATRAS.pdf",
+      "download": true
+    }
+  },
+  "spe11": {
+    "anchorName": "urologia",
+    "header": "ESPECIALIDAD",
+    "title": "Urología ",
+    "description": "",
+    "details": "Nuestros urólogos se encargan de la prevención, diagnóstico y tratamiento de enfermedades renales, del aparato urinario y reproductor que afectan a ambos sexos. El equipo médico de urología se enfoca en proveer a cada paciente una experiencia personalizada identificando condiciones y tratamientos para lograr resultados extraordinarios.",
+    "listTitle": "Condiciones urológicas:",
+    "list": [
+      [
+        { "id": 1, "text": "Cáncer de próstata" },
+        { "id": 2, "text": "Disfunción eréctil" },
+        { "id": 3, "text": "Examenes de prostata" },
+        { "id": 4, "text": "Problemas de la vejiga" },
+        { "id": 5, "text": "Piedras en los riñones" },
+        { "id": 6, "text": "Infecciones de vías urinarias" },
+        { "id": 7, "text": "Tumores de vías urinarias" }
+      ]
+    ]
+  }
+}

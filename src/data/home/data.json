@@ -1,0 +1,233 @@
+{
+  "information": {
+    "title": "Hospital Ashford, comprometidos con tu calidad de vida",
+    "detail": "Por 118 años hemos operado de forma continua con los principios de nuestros fundadores como norte:  Salud preventiva, vocación al servicio, innovación y trato con calor humano."
+  },
+  "support": {
+    "title": "¡Saludos! ¿Cómo podríamos ayudarle?",
+    "items": [
+      {
+        "info": "¿Necesitas estar ingresado para utilizar los servicios del hospital?",
+        "actionText": "Nuestros servicios - incluyendo laboratorios, centro de imágenes, cuidado de heridas - están disponibles para el público en general.",
+        "key": "1"
+      },
+      {
+        "info": "¿Cómo hacer citas con nuestros médicos?",
+        "actionText": " Citas con nuestra facultad médica se hacen a través de sus oficinas, favor referirse al directorio médico para información de contacto.",
+        "key": "2"
+      },
+      {
+        "info": "¿Qué constituye una emergencia médica?",
+        "actionText": "Se considera una emergencia toda condición que podría resultar en daño a las funciones corporales, a un órgano corporal o a la salud del individuo.",
+        "key": "3"
+      },
+      {
+        "info": "¿Qué tengo que saber antes de mi operación?",
+        "actionText": "Visite la sección de “Admisiones” donde encontrará toda información, en adición a un listado detallado de los requisitos necesarios antes de ser admitido.",
+        "key": "4"
+      }
+    ]
+  },
+  "interest": {
+    "title": "Datos de interés",
+    "header": "¡En el Hospital Ashford estamos para servirles!",
+    "description": "Nuestra misión es proveer servicios médicos hospitalarios de excelencia con calor humano con empatía y compasión",
+    "list": [
+      {
+        "key": "1",
+        "value": "118",
+        "description": "Años de servicio a la comunidad"
+      },
+      {
+        "key": "2",
+        "value": "300",
+        "description": "Vidas de bebés salvadas al año en  nuestro NICU Nivel 3"
+      },
+      {
+        "key": "3",
+        "value": "#1",
+        "description": "La clínica colorrectal más completa de Puerto Rico"
+      },
+      {
+        "key": "4",
+        "value": "#1",
+        "description": "#1 en partos en Hospital Privado en Puerto Rico"
+      }
+    ]
+  },
+  "stories": {
+    "items": [
+      {
+        "author": "Maydelise Columna",
+        "type": "Paciente del Centro de la mujer",
+        "buttonText": "Leer Más",
+        "buttonLink": "/testimonios#0",
+        "key": "1"
+      },
+      {
+        "author": "Natalie y Daniel",
+        "type": "Pacientes de Ginecología y sala de partos",
+        "buttonText": "Leer Más",
+        "buttonLink": "/testimonios#1",
+        "key": "2"
+      },
+      {
+        "author": "Dra. Rosa Bonilla",
+        "type": "Directora NICU Nivel 3",
+        "buttonText": "Leer Más",
+        "buttonLink": "/testimonios#2",
+        "key": "3"
+      },
+      {
+        "author": "Elizabeth De Jesús",
+        "type": " Sobreviviente de COVID-19",
+        "buttonText": "Leer Más",
+        "buttonLink": "/testimonios#3",
+        "key": "4"
+      }
+    ]
+  },
+  "speciality": {
+    "title": "Especialidades",
+    "items": [
+      {
+        "code": "OB-G",
+        "title": "OB-Gyn/Ginecología",
+        "link": "/especialidades#obstetricia_ginecologia_ginecologia-oncologica"
+      },
+      {
+        "code": "NICU",
+        "title": "Unidad NICU",
+        "link": "/especialidades#nicu"
+      },
+      {
+        "code": "Cc",
+        "title": "Cirugía colorrectal",
+        "link": "/especialidades#cirugia-colorrectal"
+      },
+      {
+        "code": "Or",
+        "title": "Ortopedia",
+        "link": "/especialidades#ortopedia"
+      },
+      {
+        "code": "FdR",
+        "title": "Medicina física, deportiva y rehabilitación",
+        "link": "/especialidades#medicina-deportiva"
+      },
+      {
+        "code": "Ot",
+        "title": "Otorrinolaringologia",
+        "link": "/especialidades#otorrinolaringologia"
+      },
+      {
+        "code": "En",
+        "title": "Endocrinologia",
+        "link": "/especialidades#endocrinologia"
+      },
+      {
+        "code": "Cg",
+        "title": "Cirugía general",
+        "link": "/especialidades#cirugia-general"
+      },
+      {
+        "code": "Co",
+        "title": "Cirugía oncológica",
+        "link": "/especialidades#cirugia-oncologica"
+      },
+      {
+        "code": "Pe",
+        "title": "Pediatría",
+        "link": "/especialidades#pediatria"
+      },
+      { "code": "Ur", "title": "Urologia", "link": "/especialidades#urologia" }
+    ]
+  },
+  "news": {
+    "title": "Actualidad",
+    "buttonText": "Ver Más"
+  },
+  "services": {
+    "title": "Servicios",
+    "items": [
+      {
+        "key": "1",
+        "name": "Radiología/Centro de imágenes",
+        "link": "/servicios#radiologia_centro-de-imagenes"
+      },
+      { "key": "2", "name": "Laboratorio", "link": "/servicios#laboratorio" },
+      {
+        "key": "3",
+        "name": "Cuidado de heridas",
+        "link": "/servicios#cuidado-de-heridas"
+      },
+      {
+        "key": "4",
+        "name": "Centro de medicina física y rehabilitación",
+        "link": "/servicios#centro-de-medicina-fisica_rehabilitacion"
+      },
+      {
+        "key": "5",
+        "name": "Ashford Prenatal",
+        "link": "/servicios#centro-prenatal"
+      },
+      {
+        "key": "6",
+        "name": "Centro de vacunación",
+        "link": "/servicios#centro-de-la-mujer"
+      },
+      {
+        "key": "7",
+        "name": "Clínica de cardiología",
+        "link": "/servicios#medicina-nuclear_centro-de-cardiologia"
+      },
+      {
+        "key": "8",
+        "name": "Centro de la mujer",
+        "link": "/servicios#centro-de-la-mujer"
+      },
+      {
+        "key": "9",
+        "name": "Farmacia de la comunidad",
+        "link": "/servicios#farmacia-de-la-comunidad"
+      }
+    ]
+  },
+  "payments": {
+    "title": "Portal de pago",
+    "header": "Ahora puedes pagar tus facturas del Hospital Ashford en nuestro nuevo portal de pagos.",
+    "description": "Es fácil, seguro y disponible 24/7 & 365 días del año para su conveniencia.",
+    "list": [
+      {
+        "key": "ip-1",
+        "value": "Recibirás un enlace por mensaje de texto para acceder el portal de pago"
+      },
+      {
+        "key": "ip-2",
+        "value": "Si no ha recibido una URL o link a través de un mensaje de texto del Hospital Ashford, por favor llame al teléfono:",
+        "sublist": [
+          {
+            "key": "ip-2-1",
+            "value": "Pacientes de Medicare, MCSClassic, Humana Gold, MMM, PMC, TSA, TRICARE, CHAMPVA, HMO\\n 787 721 2160 ext. 6612, 6608, 6783, 6745"
+          },
+          {
+            "key": "ip-2-2",
+            "value": "Pacientes planes Comerciales:\\n 787 721 2160 ext. 1002, 1073, 1071, 6706, 6546, 2167, 6707"
+          }
+        ]
+      },
+      {
+        "key": "ip-3",
+        "value": "Para su seguridad el portal le solicitara verificar su identidad proveyendo su nombre y apellido; 4 últimos dígitos de su SSN o DOB y número de zipcode."
+      },
+      {
+        "key": "ip-4",
+        "value": "Una vez verificada su identidad, tendrá acceso a sus facturas para revisarlas"
+      },
+      {
+        "key": "ip-5",
+        "value": "Proceda al pago utilizando su tarjeta de crédito o débito, Visa/Master Card y/o cuenta de ahorro corriente."
+      }
+    ]
+  }
+}

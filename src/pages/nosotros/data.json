@@ -1,0 +1,50 @@
+{
+    "header": "Sobre nosotros",
+    "title": "El Hospital Ashford: 118 años ofreciendo servicios médicos de excelencia con empatía, compasión y calor humano.",
+    "subtitle": "Con un compromiso inquebrantable por la salud de la comunidad",
+    "description": "El Hospital Ashford es una institución sin fines de lucro, fundada en 1904 con la convicción de servir.  Desde el comienzo el Hospital Ashford se posicionó a la vanguardia de la salud ofreciendo servicios y una experiencia de paciente llena de humanidad.  No hay duda que la trayectoria del Hospital Ashford ha marcado la historia de la salud en Puerto Rico y de miles de vidas que han recibido servicio en el Hospital.  Hoy estamos orgullosos de los logros de nuestra Facultad Médica, la calidad de nuestros servicios y especialidades y del equipo de trabajo que cada día se esmera por que cada paciente tenga una experiencia de primera.  Continuamos ofreciendo un enfoque de prevención, con terapias innovadoras, diagnósticos precisos y  tratamientos personalizados que resultan en calidad de vida para todos nuestros pacientes.",
+    "timeline": [
+      {
+        "year": "1904",
+        "build": "Centro de registro",
+        "detail": "La primera sede del Hospital Presbiteriano fue inaugurada en 1904. Inicialmente era un dispensario, fundado por la Doctora Grace Williams Atkins, y luego se convirtió en hospital. En ese mismo año también comienza la escuela de enfermería en los predios del hospital."
+      },
+      {
+        "year": "1917",
+        "build": "Centro de registro",
+        "detail": "El edificio del Hospital Presbiteriano fue inaugurado en 1917. La edificación inicial consistía de tres edificios de madera, en el corazón de Condado en el mismo lugar que el hospital ocupa hoy."
+      },
+      {
+        "year": "1946",
+        "build": "Edificación incial",
+        "detail": "La Junta Fundadora del Hospital traspasó el manejo de la institución a una Junta de Síndicos residentes en Puerto Rico y se le cambió el nombre al Ashford Presbyterian Community Hospital."
+      },
+      {
+        "year": "1958",
+        "build": "Primer hospital",
+        "detail": "Primer hospital en Puerto Rico acreditado por The Joint Commission que se ha mantenido vigente por los pasados 63 años."
+      },
+      {
+        "year": "1963",
+        "build": "Ashford Medical Tower",
+        "detail": "Primer hospital en contar con una torre de oficinas médicas (Ashford Medical Center)."
+      }
+    ],
+    "conclusion": " A través de su historia,  se ha distinguido por la innovación y por ser el primero en implementar tratamientos y tecnologías para beneficiar a los pacientes.  En el 2020 fue el primer Hospital en recibir y tratar un paciente de COVID y el primero en administrar la vacuna de COVID en Puerto Rico.",
+    "details": {
+      "vision": {
+        "header": "Nuestra visión",
+        "text": "Ser la primera opción ofreciendo servicios médico-hospitalarios de excelencia. Deseamos convertirnos en el hospital más querido por su humanidad y compromiso con pacientes"
+      },
+      "history": [
+        {
+          "header": "Mujeres líderes",
+          "text": "El concepto de mujeres líderes es una idea centenaria para el Hospital Ashford. En 1901 la Dra. Grace Williams Atkins comienza los planes del Hospital Ashford reconociendo la precaria situación de la salud en la isla. La visión de la Dra. Atkins y su equipo de trabajo tuvo un impacto profundo en el Hospital,  en el desarrollo de la comunidad del Condado y en mejorar la salud del pueblo. Además del Hospital, se logra fundar una escuela de enfermería para desarrollar talento. El Hospital Ashford ha continuado promoviendo el liderazgo de la mujer y la educación de salud a través de su historia. 118 años después nos honra tener un equipo gerencial dirigido por la Lcda. Itza Soto, y tener una alianza con el Ponce School of Medicine para educar médicos y otros profesionales en salud.\n\nEn el Hospital Ashford seguimos operando con los valores y principios establecidos desde 1904; servicio a la comunidad, el paciente primero, innovación y servicios de excelencia. En el Hospital Ashford estamos siempre inspirados, con una visión clara de impactar positivamente la salud de nuestras comunidades, con una Facultad médica de primera, ofreciendo una experiencia profundamente humana."
+        },
+        {
+          "header": "Dr. Bailey K.  Ashford",
+          "text": "Un pionero en la salud en Puerto Rico, llegó a nuestra isla en 1898 como médico militar en la ocupación norteamericana. El Dr. Ashford investigó, descubrió y desarrolló el tratamiento de la uncinariasis, que en el 1900 era la principal causa de muerte en Puerto Rico. Gracias a su intervención, los médicos puertorriqueños ganaron reconocimiento profesional y científico. En 1911 el Dr. Ashford propone la creación de una Escuela de Medicina Tropical, la cual abrió en 1926. El Dr. Ashford fungio como profesor de la escuela y continuó aportando con sus investigaciones sobre anemia. Por su gran contribución y dedicación a Puerto Rico y a la salud del pueblo, nuestro Hospital se honra con su nombre."
+        }
+      ]
+    }
+  }

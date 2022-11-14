@@ -1,0 +1,439 @@
+{
+  "serv1": {
+    "anchorName": "radiologia_centro-de-imagenes",
+    "header": "SERVICIOS",
+    "title": "Radiología/Centro de imágenes",
+    "description": "",
+    "details": "Nuestros radiólogos combinan su experiencia y conocimiento con la tecnología más avanzada para ofrecer diagnósticos confiables. Trabajamos para que sus resultados estén listos en un periodo no mayor de 24 horas.",
+    "list": [
+      [
+        {
+          "id": 1,
+          "text": "PET-CT"
+        },
+        {
+          "id": 2,
+          "text": "CT scan"
+        },
+        {
+          "id": 3,
+          "text": "MRI"
+        },
+        {
+          "id": 4,
+          "text": "Radiología digital"
+        },
+        {
+          "id": 5,
+          "text": "Biopsia de seno"
+        },
+        {
+          "id": 6,
+          "text": "Mamografía digital (certificada por FDA y acreditada por ACR)"
+        }
+      ],
+      [
+        {
+          "id": 1,
+          "text": "Sonografía (obstétrica, sonomamografías, entre otros)"
+        },
+        {
+          "id": 2,
+          "text": "Sonografía musculoesquelética"
+        },
+        {
+          "id": 3,
+          "text": "Biopsia por estereotaxia (para muestras de tejido)"
+        },
+        {
+          "id": 4,
+          "text": "Estudios de fluoroscopia digital (gastrointestinal, tracto urinario, entre otros)"
+        },
+        {
+          "id": 5,
+          "text": "Sonohisterosalpingografía (trompas de falopio y el útero)"
+        }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2160, ext. 1042, 1045 y 1046",
+          "value": "787-721-2160"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Primer piso (entrando por la recepción a mano izquierda)"
+        },
+        {
+          "id": 3,
+          "type": "hours",
+          "text": "Servicio de mamografía, MRI, CT scan \rLunes a viernes de 6:30am - 4:00pm\n\nServicio de sonografía: \rLunes a viernes de 7:00am - 5:00pm\rSábado de 8:00am - 12:00pm\n\nServicios de radiología: \rLunes a viernes de 7:00am - 5:00pm\rSábado y domingo de 7:00am - 5:00pm\n\nEntrega de resultados: \rLunes a viernes de 8:00am - 5:00pm\rSábado de 8:00am - 12pm",
+          "isCentered": false
+        }
+      ]
+    },
+    "qr": {
+      "imageAlt": "Codigo QR del Centro de Imagenes",
+      "url": "https://s.brainhi.com/a/cb7f143f-bae6-4384-9913-05eb911e857a"
+    }
+  },
+  "serv2": {
+    "anchorName": "medicina-nuclear_centro-de-cardiologia",
+    "header": "SERVICIOS",
+    "title": "Medicina nuclear y centro de cardiología",
+    "description": "",
+    "details": "Diferente a la radiología convencional, la fortaleza de la medicina nuclear reside en el uso de trazadores radiactivos para estudiar la función de los órganos del cuerpo. Contamos con cuatro tecnólogos licenciados en el campo de medicina nuclear, tres médicos especializados y un grupo de cardiólogos especializado en la cardiología nuclear. Ofrecemos excelentes métodos no invasivos para el diagnóstico y tratamiento de muchas condiciones médicas:",
+    "list": [
+      [
+        { "id": 1, "text": "Tomografía computadorizada nuclear (SPECT)" },
+        { "id": 2, "text": "Corazón (perfusión del miocardio)" },
+        { "id": 3, "text": "Pet CT" }
+      ],
+      [
+        { "id": 1, "text": "“Gated” MUGA" },
+        {
+          "id": 2,
+          "text": "Cerebro (estudios neurológicos)"
+        },
+        {
+          "id": 3,
+          "text": "Huesos (fracturas, metástasis, osteomielitis, tumores y crecimiento, entre otros)"
+        }
+      ],
+      [
+        { "id": 1, "text": "Riñones" },
+        {
+          "id": 2,
+          "text": "Estudios endocrinos"
+        },
+        {
+          "id": 3,
+          "text": "Pulmones"
+        }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2160 ext. 1005, 1017, 6775",
+          "value": "787-721-2160"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Primer piso"
+        },
+        {
+          "id": 3,
+          "type": "hours",
+          "text": "Lunes a viernes de 7:00am - 4:00pm"
+        }
+      ]
+    },
+    "qr": {
+      "imageAlt": "Codigo QR de Medicina Nuclear y Centro de Cardiología",
+      "bgColor": "white",
+      "url": "https://s.brainhi.com/a/d94ba039-9ab4-4c46-a08d-6f3e59b34411"
+    }
+  },
+  "serv3": {
+    "anchorName": "laboratorio",
+    "header": "SERVICIOS",
+    "title": "Laboratorio",
+    "description": "",
+    "details": "El laboratorio clínico del Hospital Ashford es atendido por reconocidos patólogos que continuamente ofrecen consultas a los médicos de nuestros pacientes. Contamos con la tecnología avanzada para realizar toda la gama de pruebas de laboratorio y el análisis que nuestros pacientes necesitan para un diagnóstico preciso.",
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2160 ext. 1001, 1003, 1036",
+          "value": "787-721-2160"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Centro de registro, primer piso"
+        },
+        {
+          "id": 3,
+          "type": "hours",
+          "text": "Lunes a viernes 6:00am - 5:00pm; sábado 7:00am - 12:00pm"
+        }
+      ]
+    }
+  },
+  "serv4": {
+    "anchorName": "centro-de-medicina-fisica_rehabilitacion",
+    "header": "SERVICIOS",
+    "title": "Centro de medicina física y rehabilitación",
+    "description": "",
+    "details": "En nuestro centro de medicina física y rehabilitación atendemos pacientes con condiciones ortopédicas, musculares, neurológicas y parálisis. Somos el único hospital en Puerto Rico que cuenta con técnicos especializados en la rehabilitación del suelo pélvico y el único hospital privado de la isla con un centro de rehabilitación cardiaca. Nuestro personal experto utiliza equipos de estimulación eléctrica, ultrasonido, láser, ejercicios terapéuticos y baños de parafina para proveer el mejor tratamiento para aliviar su dolor o molestia.",
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": " (787) 722-2915 o al 721-2160, ext. 1022 ó 1021",
+          "value": "787-722-2915"
+        },
+        {
+          "id": 2,
+          "type": "hours",
+          "text": "Lunes a viernes de 6:00am - 6:00pm"
+        },
+        {
+          "id": 3,
+          "type": "location",
+          "text": "Primer piso, edificio de administración (detrás de sala de emergencia)"
+        }
+      ]
+    }
+  },
+  "serv5": {
+    "anchorName": "cuidado-de-heridas",
+    "header": "SERVICIOS",
+    "title": "Cuidado de heridas",
+    "description": "",
+    "details": "El cuidado y tratamiento de heridas es un proceso importante para evitar infecciones y otras complicaciones. Nuestro centro de cuidado de heridas brinda tratamiento ambulatorio, interdisciplinario y con protocolos clínicos establecidos y científicamente probados. Además, educamos a pacientes en cuanto al cuidado de heridas en el hogar y sobre la prevención de futuras heridas.",
+    "listTitle": "Entre los tipos de heridas que atendemos figuran:",
+    "list": [
+      [
+        { "id": 1, "text": "Manejo de heridas post operatorias" },
+        {
+          "id": 2,
+          "text": "Heridas en pacientes diabéticos heridas que se resisten a la cicatrización"
+        },
+        {
+          "id": 3,
+          "text": "Heridas isquémicas arteriales"
+        },
+        {
+          "id": 4,
+          "text": "Estasis venosa, úlceras por presión"
+        }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-3277 / (787) 721-2160, ext. 6580 y 6582",
+          "value": "787-721-3277"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Primer piso, edificio de administración (detrás de la sala de emergencias)"
+        },
+        {
+          "id": 3,
+          "type": "hours",
+          "text": "Lunes a viernes de 7:00am - 4:00pm"
+        }
+      ]
+    }
+  },
+  "serv6": {
+    "anchorName": "centro-prenatal",
+    "header": "SERVICIOS",
+    "title": "Ashford Prenatal",
+    "description": "",
+    "details": "En nuestro Centro Prenatal, dirigido por Annette Pérez-Delboy, MD, FACOG, trabajamos de la mano con tu obstetra para personalizar el plan de tratamiento óptimo para tus necesidades. Realizamos estudios y procedimientos especializados para atender condiciones en etapas tempranas. Nuestro objetivo es que tu embarazo sea seguro para ti y tu bebé.",
+    "listTitle": "Brindamos cuidado a mujeres con las siguientes condiciones durante el embarazo:",
+    "list": [
+      [
+        { "id": 1, "text": "Embarazos de alto riesgo" },
+        {
+          "id": 2,
+          "text": "Condiciones fetales"
+        },
+        {
+          "id": 3,
+          "text": "Complicaciones del embarazo"
+        },
+        {
+          "id": 4,
+          "text": "Sonogramas"
+        },
+        {
+          "id": 5,
+          "text": "Procedimientos"
+        }
+      ]
+    ],
+    "contact": {
+      "header": "Información",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 474-4800",
+          "value": "787-474-4800"
+        },
+        {
+          "id": 2,
+          "type": "email",
+          "text": "prenatal@ashfordhospital.com",
+          "value":"prenatal@ashfordhospital.com"
+
+        }
+      ]
+    },
+    "qr": {
+      "header": "Descargar contacto",
+      "imageAlt": "Codigo QR del Centro Prenatal",
+      "url": "Annette-Perez-Delboy.vcf",
+      "download": true
+    }
+  },
+  "serv7": {
+    "anchorName": "centro-de-la-mujer",
+    "header": "SERVICIOS",
+    "title": "Centro de la mujer",
+    "description": "",
+    "details": "El centro de la mujer del Hospital Ashford se enfoca en fomentar el desarrollo físico, mental y social de nuestras visitantes. Ofrecemos servicios integrales de salud y promovemos la detección temprana de las condiciones más comunes en mujeres como cáncer de seno, enfermedades cardiovasculares, virus del papiloma humano, menopausia, salud del cuello uterino, entre otros. Con una llamada, nuestra educadora en salud coordinará todos sus estudios especializados.",
+    "list": [
+      [
+        { "id": 1, "text": "Mamografía digital" },
+        {
+          "id": 2,
+          "text": "Sonomamografía (ultrasonido del seno)"
+        },
+        {
+          "id": 3,
+          "text": "Histerograma (radiografía del útero y trompas de falopio)"
+        },
+        {
+          "id": 4,
+          "text": "Densitometría (determina el contenido de calcio en los huesos)"
+        },
+        {
+          "id": 5,
+          "text": "Sonografía digital"
+        },
+        {
+          "id": 5,
+          "text": "Laboratorios clínicos"
+        },
+        {
+          "id": 5,
+          "text": "Medicina nuclear y cardiovascular"
+        },
+        {
+          "id": 5,
+          "text": "Radiología digital"
+        },
+        {
+          "id": 5,
+          "text": "Nutrición"
+        },
+        {
+          "id": 5,
+          "text": "Control de peso"
+        },
+        {
+          "id": 5,
+          "text": "Wellness and fitness center"
+        },
+        {
+          "id": 5,
+          "text": "Citas relacionadas con cirugía plástica"
+        }
+      ]
+    ],
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2298",
+          "value": "787-721-2298"
+        },
+        {
+          "id": 2,
+          "type": "location",
+          "text": "Primer piso (al lado de sonografía)"
+        },
+        { "id": 3, "type": "hours", "text": "Lunes a viernes, 7:00am - 4:00pm" },
+        {
+          "id": 4,
+          "type": "email",
+          "text": "pcm@ashfordhospital.com",
+          "value": "pcm@ashfordhospital.com"
+        }
+      ]
+    }
+  },
+  "serv8": {
+    "anchorName": "centro-de-vacunacion",
+    "header": "SERVICIOS",
+    "title": "Centro de vacunación",
+    "description": "Manténgase al día con toda información sobre vacunas para el Covid-19",
+    "details": "En el Hospital Ashford ofrecemos servicios para todo tipo de vacuna. Las vacunas son un mecanismo eficiente para el control de muchas enfermedades y es nuestro deber como ciudadanos responsabilizarnos por proteger nuestra salud y la del prójimo.",
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "(787) 721-2160 ext. 6525",
+          "value": "787-721-2160"
+        },
+        {
+          "id": 2,
+          "type": "hours",
+          "text": "Lunes - viernes 8:30am - 4:30pm (12 años en adelante) - sin cita"
+        },
+        {
+          "id": 3,
+          "type": "email",
+          "text": "covid@ashfordhospital.com",
+          "value": "covid@ashfordhospital.com"
+        }
+      ]
+    }
+  },
+  "serv9": {
+    "anchorName": "farmacia-de-la-comunidad",
+    "header": "SERVICIOS",
+    "title": "Farmacia de la comunidad",
+    "description": "",
+    "details": "La farmacia del Hospital Ashford está localizada dentro del hospital y cuenta con un recetario amplio y especializado. Nuestro personal profesional y farmacéuticos debidamente licenciados tienen vasta experiencia y conocimiento para brindarle la orientación necesaria para complementar el cuidado de su salud.",
+    "contact": {
+      "header": "Información, ubicación y horarios",
+      "list": [
+        {
+          "id": 1,
+          "type": "phone",
+          "text": "Información: (787) 721-2160, ext. 1108",
+          "value": "787-721-2160"
+        },
+        { "id": 2, "type": "fax", "text": "Fax: (787) 722-3738" },
+        {
+          "id": 3,
+          "type": "location",
+          "text": "Primer piso, cerca de la sala de emergencias."
+        },
+        {
+          "id": 4,
+          "type": "hours",
+          "text": " Lunes a miércoles: 7:30 am – 5:00 pm, jueves y viernes: 8:00 am – 5:00 pm, sábado y domingo: 8:00 am – 12:00pm pm"
+        }
+      ]
+    }
+  }
+}
