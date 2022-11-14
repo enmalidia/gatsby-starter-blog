@@ -84,7 +84,7 @@ const DirectoryItem = ({ title, category, keyId, phone, value }) => {
         <Description className="typo-body-m">{category}</Description>
       </TextContainer>
       <PhoneContainer>
-        <img src={Phone} />
+        <img src={Phone} alt=""/>
         <p className="typo-body-m">
           <a className="gtm-action gtm-action-phone" href={`tel:${value}`}>{phone}</a>
         </p>

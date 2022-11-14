@@ -1,7 +1,6 @@
 import React from "react"
 import SupportItem from "./supportItem"
 import styled from "@emotion/styled"
-import { useStaticQuery, graphql } from "gatsby"
 import Fade from "react-reveal/Fade"
 
 import IconEsp from "../../images/esp-icon.svg"

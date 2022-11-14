@@ -1,6 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
-import InfoItem from "./infoItem"
 import styled from "@emotion/styled"
 import rightArrow from "../../images/right-arrow.svg"
 import rightArrowNavy from "../../images/right-arrow-navy.svg"

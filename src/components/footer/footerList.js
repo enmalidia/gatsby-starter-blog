@@ -1,7 +1,6 @@
 import React, { useMemo } from "react"
 import styled from "@emotion/styled"
 import { Link } from "gatsby"
-import arrowUpRight from "../../images/arrow-up-right.svg"
 
 const Container = styled.div`
   border-left: 1px solid var(--color-sea-transparent);
@@ -15,12 +14,6 @@ const Header = styled.p`
   line-height: var(--line-height-5);
   color: var(--color-sea);
   margin: 0px 0px var(--spacing-4) 0px;
-`
-
-const Arrow = styled.img`
-  width: 8px;
-  height: 8px;
-  margin-left: 4px;
 `
 
 const ListContainer = styled.div`
@@ -85,7 +78,7 @@ const FooterList = ({ splitPoint, items, header, className }) => {
       }
     }
     return matrix
-  })
+  },[items,splitPoint])
 
   const printList = (items, key) => {
     if (!items) {

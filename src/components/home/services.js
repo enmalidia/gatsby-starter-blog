@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import ServicesItem from "./servicesItem"
 import { Container1440 } from "../generalStyledComponents"

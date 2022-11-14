@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import ServiceTextInfoBlockList from "../services/serviceTextInfoBlockList"
 import { Container1440 } from "../generalStyledComponents"
@@ -112,7 +111,7 @@ const AdmissionTwoColumnReq = ({
         </LeftContainer>
         <RightContainer>
           <DownloadTitleContainer>
-            <img src={Download} />
+            <img src={Download} alt=""/>
             <DownloadTitle>{buttonText}</DownloadTitle>
           </DownloadTitleContainer>
           <DocList list={docList} downloadText={downloadText} />
@@ -121,7 +120,5 @@ const AdmissionTwoColumnReq = ({
     </Container>
   )
 }
-
-AdmissionTwoColumnReq.propTypes = {}
 
 export default AdmissionTwoColumnReq

@@ -1,12 +1,10 @@
 import React from "react"
-import PropTypes from "prop-types"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 import { Link } from "gatsby"
 import { Container1440 } from "../components/generalStyledComponents"
 import styled from "@emotion/styled"
 import SocialIcon from "../components/condition/socialIcon"
-import Sms from "../images/sms.svg"
 import Facebook from "../images/facebook.svg"
 import Linkedin from "../images/linkedin.svg"
 import Twiter from "../images/twiter.svg"
@@ -98,17 +96,6 @@ const Name = styled.p`
   padding-bottom: var(--spacing-6);
 `
 
-const Question = styled.p`
-  font-style: normal;
-  line-height: var(--line-height-5);
-  color: var(--color-sea);
-  margin: 0px 0px;
-  padding-bottom: var(--spacing-6);
-
-  @media (min-width: 768px) {
-    padding-bottom: var(--spacing-7);
-  }
-`
 const Orientation = styled.p`
   font-style: normal;
   line-height: var(--line-height-4);
@@ -117,8 +104,8 @@ const Orientation = styled.p`
 
   padding-bottom: 24px;
 `
-const Button = styled.div`
-  /* Auto layout */
+/* const Button = styled.div`
+  
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -151,7 +138,7 @@ const ButtonText = styled.p`
   text-align: center;
   color: var(--color-white);
   margin: 0px 0px 0px var(--spacing-2);
-`
+` */
 const ShareMessage = styled.p`
   font-style: normal;
   line-height: var(--line-height-1);
@@ -236,7 +223,7 @@ const ConditionView = ({ condition }) => {
             <LefContainer className="col-12 col-md-6">
               <LeftContentContainer className="sticky-top">
                 <LinkContainer>
-                  <img src={LeftArrow} />
+                  <img src={LeftArrow} alt=""/>
                   <Link to="/condiciones">Volver al listado</Link>
                 </LinkContainer>
                 <Type className="typo-label-s">{condition.category}</Type>
@@ -255,16 +242,16 @@ const ConditionView = ({ condition }) => {
                 </ShareMessage>
                 <SocialContainer>
                   <SocialIcon href="https://es-la.facebook.com/ashfordhospitalpr/">
-                    <img src={Facebook} />
+                    <img src={Facebook} alt=""/>
                   </SocialIcon>
                   <SocialIcon href="https://www.linkedin.com/company/ashfordhospital/?originalSubdomain=pr">
-                    <img src={Linkedin} />
+                    <img src={Linkedin} alt="" />
                   </SocialIcon>
                   <SocialIcon href="https://twitter.com/ashfordpr">
-                    <img src={Twiter} />
+                    <img src={Twiter} alt=""/>
                   </SocialIcon>
                   <SocialIcon href="https://www.instagram.com/ashfordhospitalpr/?hl=es">
-                    <img src={Instagram} />
+                    <img src={Instagram} alt=""/>
                   </SocialIcon>
                 </SocialContainer>
               </LeftContentContainer>

@@ -20,7 +20,7 @@ export default function ActiveLink({ paths, children }) {
         }
       }
     }
-  })
+  },[paths])
 
   return isActiveLink ? (
     <StyledLinkActive>{children}</StyledLinkActive>

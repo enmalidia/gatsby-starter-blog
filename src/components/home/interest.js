@@ -1,7 +1,6 @@
 import React from "react"
 import { StaticImage } from "gatsby-plugin-image"
 import styled from "@emotion/styled"
-import PropTypes from "prop-types"
 import StatisticList from "./statisticList"
 import { Container1440 } from "../generalStyledComponents"
 

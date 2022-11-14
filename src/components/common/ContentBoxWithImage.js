@@ -1,7 +1,6 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image"
 
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import { Container1440 } from "../generalStyledComponents"
 import ServiceTextInfoBlock from "../services/serviceTextInfoBlock"
@@ -25,7 +24,7 @@ const ContentContainer = styled.div`
   }
 `
 
-const Col = styled.div`
+/* const Col = styled.div`
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -36,7 +35,7 @@ const Row = styled.div`
   @media (min-width: 576px) {
     flex-flow: wrap;
   }
-`
+` */
 
 const LayoutContent = styled(Container1440)`
   place-items: center;

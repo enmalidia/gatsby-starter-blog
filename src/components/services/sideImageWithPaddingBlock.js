@@ -2,7 +2,6 @@ import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image"
 
 import { useBreakpoint } from "gatsby-plugin-breakpoints"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import ServiceTextInfoBlock from "./serviceTextInfoBlock"
 import { Container1440 } from "../generalStyledComponents"

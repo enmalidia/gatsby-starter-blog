@@ -7,9 +7,6 @@ import { useBreakpoint } from "gatsby-plugin-breakpoints"
 
 import "./information.scss"
 
-const Container = styled.div`
-  position: relative;
-`
 
 const TextInfo = styled.p`
   /* Headings DESKTOP/Heading L */

@@ -39,32 +39,34 @@ const ConditionsPage = () => {
   }, [])
 
   const toSimpleChar = char => {
+    let returnValue;
     switch (char) {
       case "Á":
-        return "A"
+        returnValue = "A"
+      break;
 
-        break
       case "Í":
-        return "I"
+        returnValue = "I"
+      break;
 
-        break
       case "É":
-        return "E"
+        returnValue = "E"
+      break;
 
-        break
       case "Ó":
-        return "O"
+        returnValue = "O"
+      break;
 
-        break
       case "Ú":
-        return "U"
+        returnValue = "U"
+      break;
 
-        break
       default:
-        return char
-        break
+        returnValue = char
     }
+    return returnValue
   }
+
   return (
     <Layout>
       <Seo title="Services" />

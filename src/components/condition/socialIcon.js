@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 const Container = styled.div`
   width: 42px;
@@ -20,7 +19,7 @@ const Container = styled.div`
 const SocialIcon = ({ children, color, href }) => {
   return (
     <Container color={color}>
-      <a className="gtm-action gtm-action-social" href={href ? href : "#"} target="_blank">
+      <a className="gtm-action gtm-action-social" href={href ? href : "#"} target="_blank" rel="noreferrer">
         {children}
       </a>
     </Container>

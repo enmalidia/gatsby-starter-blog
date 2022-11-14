@@ -236,10 +236,10 @@ const StoryView = ({ location }) => {
                     </div>
                     <div className="arrow-container">
                       <div className="prev">
-                        <img src={LeftArrow} />
+                        <img src={LeftArrow} alt=""/>
                       </div>
                       <div className="next">
-                        <img src={RightArrow} />
+                        <img src={RightArrow} alt=""/>
                       </div>
                     </div>
                   </div>

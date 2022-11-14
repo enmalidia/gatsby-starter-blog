@@ -19,10 +19,6 @@ const Title = styled.p`
   margin-bottom: 0px;
 `
 
-const Description = styled.p`
-  color: var(--color-sea);
-`
-
 const ContentContainer = styled(Container1440)`
   padding: var(--spacing-8) var(--spacing-4) var(--spacing-8) var(--spacing-4);
 

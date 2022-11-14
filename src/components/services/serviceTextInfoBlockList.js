@@ -1,7 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
-import UilArrowRight from "@iconscout/react-unicons/icons/uil-arrow-right"
 import Arrow from "../../images/right-arrow.svg"
 import { Link } from "gatsby"
 

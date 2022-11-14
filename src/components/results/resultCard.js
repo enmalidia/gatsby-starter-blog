@@ -1,7 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
-import { GatsbyImage } from "gatsby-plugin-image"
 import { Link } from "gatsby"
 
 const Container = styled.div`
@@ -22,19 +20,18 @@ const TextContainer = styled.div`
   }
 `
 
-const Header = styled.p`
+/* const Header = styled.p`
   font-family: var(--font-family-primary);
   font-style: normal;
   font-weight: var(--font-weight-bold);
   font-size: var(--font-size-1);
   line-height: var(--line-height-1);
-  /* identical to box height, or 160% */
 
   letter-spacing: var(--letter-spacing-wide);
   text-transform: uppercase;
   color: var(--color-sea);
   margin: 0px 0px var(--spacing-2) 0px;
-`
+` */
 
 const Title = styled.p`
   line-height: var(--line-height-6);
@@ -42,11 +39,11 @@ const Title = styled.p`
   margin: 0px 0px var(--spacing-4) 0px;
 `
 
-const Description = styled.p`
+/* const Description = styled.p`
   line-height: var(--line-height-4);
   color: var(--color-bodyfont);
   margin: 0px 0px var(--spacing-4) 0px;
-`
+` */
 const MoreLink = styled(Link)`
   text-decoration: none;
   line-height: var(--line-height-3);
@@ -59,24 +56,12 @@ const MoreLink = styled(Link)`
   }
 `
 
-const ContainerImg = styled.div`
+/* const ContainerImg = styled.div`
   padding-top: 0;
   padding-bottom: 0;
   display: grid;
-`
+` */
 
-const BackgroundImage = styled.div`
-  grid-area: 1/1;
-  display: flex;
-  & > div.gatsby-image-wrapper {
-    width: 100%;
-    height: 132px;
-    @media (min-width: 576px) {
-      width: 161px;
-      height: auto;
-    }
-  }
-`
 
 const ResultCard = ({ title, path, linkText }) => {
   return (

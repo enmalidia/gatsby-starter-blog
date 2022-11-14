@@ -1,9 +1,9 @@
-import React, { useEffect, useMemo, useRef, useState } from "react"
+import React, { useEffect, useState } from "react"
 import { validateFields } from "../../utils/Validation"
 import styled from "@emotion/styled"
 import classnames from "classnames"
 import Cleave from "cleave.js/react"
-import CustomSelect from "../common/customSelect"
+
 const Button = styled.div`
   background-color: var(--color-sea);
   border: 2px solid var(--color-sea);
@@ -158,7 +158,7 @@ const FieldFullWidth = styled.div`
   margin-top: var(--spacing-3);
 `
 const AdmissionForm = ({ planList, genderList, submitText, ...formLabels }) => {
-  const customSelect = useRef(null)
+
   const [fields, setFields] = useState(initalFormState)
   const [submitCalled, setSubmitCalled] = useState(false)
   const [submitting, setSubmitting] = useState(false)
@@ -230,7 +230,6 @@ const AdmissionForm = ({ planList, genderList, submitText, ...formLabels }) => {
 
   const handleBlur = (validationFunc, evt, options) => {
     const field = evt?.target?.name || evt?.detail?.name
-    const fieldVal = evt?.target?.value || evt?.detail?.value
     if (fields[field]["validateOnChange"] === false && submitCalled === false) {
       setFields({
         ...fields,

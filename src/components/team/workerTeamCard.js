@@ -1,6 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
-import { GatsbyImage, StaticImage } from "gatsby-plugin-image"
+import { GatsbyImage } from "gatsby-plugin-image"
 import styled from "@emotion/styled"
 import Logo from "../../images/team/logo-no-photo.svg"
 
@@ -86,7 +85,7 @@ const WorkerTeamCard = ({ name, job, img, emails }) => {
         />
       ) : (
         <NoImage>
-          <img src={Logo} />
+          <img src={Logo} alt=""/>
         </NoImage>
       )}
     </Container>

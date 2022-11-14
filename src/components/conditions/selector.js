@@ -1,6 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
-import styled from "@emotion/styled"
 import './selector.scss'
 
 const Selector = props => {

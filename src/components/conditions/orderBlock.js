@@ -1,9 +1,7 @@
 import React, { useState, useEffect } from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import { Container1440 } from "../generalStyledComponents"
 import KeyList from "./keyList"
-import ConditionItem from "./conditionItem"
 import CardList from "./cardList"
 /* import Selector from "./selector" */
 import OrderSelect from "./orderSelect"

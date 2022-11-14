@@ -1,6 +1,5 @@
 import React from "react"
 import styled from "@emotion/styled"
-import PropTypes from "prop-types"
 import rightArrowNavy from "../../images/right-arrow-navy.svg"
 
 const Container = styled.li`

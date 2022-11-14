@@ -1,5 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
+
 import styled from "@emotion/styled"
 import ServiceTextInfoBlockList from "./serviceTextInfoBlockList"
 import { parseText } from "../../utils/text"

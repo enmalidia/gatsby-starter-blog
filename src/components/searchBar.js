@@ -1,6 +1,5 @@
 import React from "react"
 import UilSearch from "@iconscout/react-unicons/icons/uil-search"
-import UilCancel from "@iconscout/react-unicons/icons/uil-multiply"
 import styled from "@emotion/styled"
 import UilMultiply from "@iconscout/react-unicons/icons/uil-multiply"
 import { navigate } from "gatsby"

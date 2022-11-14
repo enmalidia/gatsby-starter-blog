@@ -63,7 +63,7 @@ const Action = styled.p`
 const SupportItem = ({ info, actionText, image }) => {
   return (
     <Container>
-      <img src={image} />
+      <img src={image} alt=""/>
       <Info>{info}</Info>
       <Action>{actionText}</Action>
     </Container>

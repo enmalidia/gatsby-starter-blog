@@ -7,7 +7,6 @@ import Support from "../components/home/support"
 import Interest from "../components/home/interest"
 import Stories from "../components/home/stories"
 import Speciality from "../components/home/speciality"
-import News from "../components/home/news"
 import InfoPayments from "../components/home/infoPayments"
 import Services from "../components/home/services"
 // Import Swiper React components
@@ -19,7 +18,7 @@ import Marquee from '../components/Marquee'
 
 const IndexPage = () => {
   const supportRef = React.useRef(null)
-  const { information, support, interest, payments, stories, speciality, news, services } = pageData
+  const { information, support, interest, payments, stories, speciality, services } = pageData
 
   const handleScroll = () => {
     supportRef.current.scrollIntoView({ behavior: "smooth" })

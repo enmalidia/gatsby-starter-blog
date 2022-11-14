@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import YearBlock from "./yearBlock"
 import styled from "@emotion/styled"
 import { parseText } from "../../utils/text"

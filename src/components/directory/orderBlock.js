@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import { Container1440 } from "../generalStyledComponents"
 import KeyList from "../conditions/keyList"
@@ -96,6 +95,9 @@ const OrderBlock = ({ cards, keys, categories }) => {
         variants.push("Ú")
 
         break
+        
+      default:
+      break;  
     }
     return variants
   }

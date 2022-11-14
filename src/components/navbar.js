@@ -199,7 +199,7 @@ const Navbar = ({ handleBlurEffect }) => {
             >
               <span
                 className="nav-link"
-                href="#"
+                href="#/"
                 id="navbarDropdownMenuLinkServices"
                 role="button"
                 data-bs-toggle="dropdown"
@@ -445,16 +445,16 @@ const Navbar = ({ handleBlurEffect }) => {
             {!breakpoints.bslg && (
               <SocialContainer>
                 <SocialIcon href={social.networks.facebook}>
-                  <img src={Facebook} />
+                  <img src={Facebook} alt=""/>
                 </SocialIcon>
                 <SocialIcon href={social.networks.linkedin}>
-                  <img src={Linkedin} />
+                  <img src={Linkedin} alt=""/>
                 </SocialIcon>
                 <SocialIcon href={social.networks.twiter}>
-                  <img src={Twiter} />
+                  <img src={Twiter} alt=""/>
                 </SocialIcon>
                 <SocialIcon href={social.networks.instagram}>
-                  <img src={Instagram} />
+                  <img src={Instagram} alt=""/>
                 </SocialIcon>
               </SocialContainer>
             )}

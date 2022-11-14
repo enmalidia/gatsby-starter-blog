@@ -1,5 +1,5 @@
 import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import styled from "@emotion/styled"
 import { useFlexSearch } from "react-use-flexsearch"
 

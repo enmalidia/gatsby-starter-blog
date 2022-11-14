@@ -14,7 +14,7 @@ import TwoColumnTextInfoSection from "../../components/services/twoColumnTextInf
 import AttentionDetails from "../../components/services/attentionDetails"
 import ContentBlockWithImage from "../../components/common/ContentBoxWithImage"
 import pageData from "./data.json"
-import QR from "../../components/QR"
+import Qr from "../../components/QR"
 
 import serv6QR from "../../images/services/qr-prenatal-center.png"
 import serv1QR from "../../images/services/qr-images-center.png"
@@ -78,7 +78,7 @@ const ServicePage = () => {
           anchorName={serv1.anchorName}
         >
           <AttentionDetails {...serv1.contact} itemColor="background" />
-          <QR image={serv1QR} {...serv1.qr} />
+          <Qr image={serv1QR} {...serv1.qr} />
         </SideImageFullEightBlock>
         <OneColumnTextInfoSection
           list={serv2.list}
@@ -94,7 +94,7 @@ const ServicePage = () => {
             typeList="row"
             itemColor="white"
           />
-          <QR image={serv2QR} {...serv2.qr} />
+          <Qr image={serv2QR} {...serv2.qr} />
         </OneColumnTextInfoSection>
 
         {breakpoints.bsmd ? (
@@ -179,7 +179,7 @@ const ServicePage = () => {
             header={serv6.contact.header}
             color="white"
           />
-          <QR image={serv6QR} {...serv6.qr} />
+          <Qr image={serv6QR} {...serv6.qr} />
         </SideImageFullEightBlock>
         <TwoColumnTextInfoSection
           list={serv7.list}

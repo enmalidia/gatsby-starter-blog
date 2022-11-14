@@ -1,6 +1,5 @@
 import React from "react"
 import styled from "@emotion/styled"
-import { GatsbyImage } from "gatsby-plugin-image"
 import PropTypes from "prop-types"
 
 const Container = styled.div`
@@ -72,7 +71,7 @@ const Button = styled.a`
   }
 `
 
-export default function QR({
+export default function Qr({
   image,
   imageAlt,
   header,
@@ -102,14 +101,14 @@ export default function QR({
   )
 }
 
-QR.propTypes = {
+Qr.propTypes = {
   imageAlt: PropTypes.string,
   header: PropTypes.string,
   text: PropTypes.string,
   bgColor: PropTypes.string,
 }
 
-QR.defaultProps = {
+Qr.defaultProps = {
   header: "Solicitar cita online",
   text: "En tu teléfono, abre la app de la cámara. Apunta la cámara hacia el código QR. Presiona el banner que aparece en tu teléfono y sigue las instrucciones en pantalla para completar el proceso de acceso.",
   bgColor: "background",

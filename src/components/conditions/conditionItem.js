@@ -4,7 +4,6 @@ import ArrowRight from "../../images/right-arrow.svg"
 import { Link } from "gatsby"
 
 
-
 const LinkContainer = styled.div`
   display: flex;
   flex-direction: column;
@@ -82,7 +81,7 @@ const ConditionItem = ({ title, category, keyId, slug }) => {
             <Description className="typo-body-m">{category}</Description>
           </TextContainer>
           <ArrowContainer>
-            <img src={ArrowRight} />
+            <img src={ArrowRight} alt=""/>
           </ArrowContainer>
         {/*</Container>*/}
       </Link>

@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import Img1 from "../../images/guide/Seguro_MAPFRE.png"
 import Img2 from "../../images/guide/Seguro_TripleS.png"
@@ -149,7 +148,7 @@ const PlansCard = ({title}) => {
       <List>
         {data.map(({ image, id, url }) => (
           <ImgContainer key={id}>
-            <img src={image} />
+            <img src={image} alt=""/>
           </ImgContainer>
         ))}
       </List>

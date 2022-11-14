@@ -1,6 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
-import { v4 as uuidv4 } from "uuid"
 import { useBreakpoint } from "gatsby-plugin-breakpoints"
 import styled from "@emotion/styled"
 import data from "../../data/footer/data.json"

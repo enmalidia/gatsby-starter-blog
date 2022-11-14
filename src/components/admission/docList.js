@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import Doc from "../../images/doc.svg"
 const Container = styled.div`

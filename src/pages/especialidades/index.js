@@ -20,7 +20,7 @@ import { StaticImage } from "gatsby-plugin-image"
 import ContentBlockWithImage from "../../components/common/ContentBoxWithImage"
 
 import spe10QR from "../../images/specialities/qr-pediatria.png";
-import QR from "../../components/QR"
+import Qr from "../../components/QR"
 
 const StyledAttentionDetails = styled(AttentionDetails)`
   & > div > div > div {
@@ -244,7 +244,7 @@ const SpecialitiesPage = () => {
           typeList="row"
           itemColor="white"
         />
-        <QR image={spe10QR} {...spe10.qr} />
+        <Qr image={spe10QR} {...spe10.qr} />
       </SideImageFullEightBlock>
       <TwoColumnTextInfoSection
         header={spe11.header}

@@ -1,7 +1,5 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
-import { StaticImage } from "gatsby-plugin-image"
 import UilCheckCircle from "@iconscout/react-unicons/icons/uil-check-circle"
 import { Link } from 'gatsby'
 

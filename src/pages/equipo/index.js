@@ -3,7 +3,7 @@ import * as React from "react"
 import Layout from "../../components/layout"
 import Seo from "../../components/seo"
 
-import { useStaticQuery, graphql } from "gatsby"
+import { graphql } from "gatsby"
 import { Container1440 } from "../../components/generalStyledComponents"
 import styled from "@emotion/styled"
 import TeamWorkers from "../../components/team/teamWorkers"

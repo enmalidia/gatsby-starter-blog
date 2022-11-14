@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import Clock from "../../images/clock.svg"
 import Location from "../../images/location.svg"

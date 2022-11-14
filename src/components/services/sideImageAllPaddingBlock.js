@@ -1,7 +1,6 @@
 import React from "react"
 import { GatsbyImage } from "gatsby-plugin-image"
 
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 
 import { useBreakpoint } from "gatsby-plugin-breakpoints"

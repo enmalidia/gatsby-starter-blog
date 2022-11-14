@@ -114,16 +114,16 @@ const FooterContact = ({ className, name, links, address, social }) => {
       </LinksContainer>
       <SocialContainer>
         <SocialIcon color="border" href={social.facebook}>
-          <img src={facebook} />
+          <img src={facebook} alt=""/>
         </SocialIcon>
         <SocialIcon color="border" href={social.linkedin}>
-          <img src={linkedin} />
+          <img src={linkedin} alt=""/>
         </SocialIcon>
         <SocialIcon color="border" href={social.twiter}>
-          <img src={twiter} />
+          <img src={twiter} alt=""/>
         </SocialIcon>
         <SocialIcon color="border" href={social.instagram}>
-          <img src={instagram} />
+          <img src={instagram} alt=""/>
         </SocialIcon>
       </SocialContainer>
     </div>

@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import DocList from "../admission/docList"
 import { GatsbyImage } from "gatsby-plugin-image"
@@ -36,7 +35,7 @@ const Description = styled.p`
   margin: 0px 0px;
   padding-bottom: var(--spacing-6);
 `
-const list = [{ title: "guiapaciente.pdf", id: 1, url: "" }]
+/* const list = [{ title: "guiapaciente.pdf", id: 1, url: "" }] */
 const DownloadCard = ({
   image,
   title,

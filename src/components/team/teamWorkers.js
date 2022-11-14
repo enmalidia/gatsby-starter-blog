@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import WorkerTeamCard from "./workerTeamCard"
 import styled from "@emotion/styled"
 

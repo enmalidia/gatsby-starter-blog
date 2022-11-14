@@ -1,11 +1,9 @@
 import React from "react"
-import { GatsbyImage } from "gatsby-plugin-image"
 
 import { useBreakpoint } from "gatsby-plugin-breakpoints"
-import PropTypes from "prop-types"
+
 import styled from "@emotion/styled"
 import { Container1440 } from "../generalStyledComponents"
-import ContactDetail from "./contactDetail"
 import SocialIcon from "../condition/socialIcon"
 
 import Facebook from "../../images/facebook.svg"
@@ -102,7 +100,7 @@ const Subsection = styled.div`
   width: 50%;
 `
 
-const MultiDetailContainer = styled.div`
+/* const MultiDetailContainer = styled.div`
   & > div {
     padding-top: var(--spacing-6);
   }
@@ -139,8 +137,8 @@ const MultiDetailContainer = styled.div`
       padding-right: var(--spacing-4);
     }
   }
-`
-const SingleDetailContainer = styled.div`
+` */
+/* const SingleDetailContainer = styled.div`
   & > div {
     padding-top: var(--spacing-6);
   }
@@ -150,7 +148,7 @@ const SingleDetailContainer = styled.div`
       padding-top: var(--spacing-4);
     }
   }
-`
+` */
 const SectionTitle = styled.p`
   line-height: 32px;
   color: var(--color-sea);
@@ -251,16 +249,16 @@ const ContactDetailsBlock = ({
 
                 <SocialContainer>
                   <SocialIcon href={social.networks.facebook}>
-                    <img src={Facebook} />
+                    <img src={Facebook} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.linkedin}>
-                    <img src={Linkedin} />
+                    <img src={Linkedin} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.twiter}>
-                    <img src={Twiter} />
+                    <img src={Twiter} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.instagram}>
-                    <img src={Instagram} />
+                    <img src={Instagram} alt=""/>
                   </SocialIcon>
                 </SocialContainer>
               </ContentContainer>
@@ -309,16 +307,16 @@ const ContactDetailsBlock = ({
                 </SectionTitle>
                 <SocialContainer>
                   <SocialIcon href={social.networks.facebook}>
-                    <img src={Facebook} />
+                    <img src={Facebook} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.linkedin}>
-                    <img src={Linkedin} />
+                    <img src={Linkedin} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.twiter}>
-                    <img src={Twiter} />
+                    <img src={Twiter} alt=""/>
                   </SocialIcon>
                   <SocialIcon href={social.networks.instagram}>
-                    <img src={Instagram} />
+                    <img src={Instagram} alt=""/>
                   </SocialIcon>
                 </SocialContainer>
               </ContentContainer>

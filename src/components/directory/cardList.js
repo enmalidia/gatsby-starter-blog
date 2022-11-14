@@ -1,5 +1,4 @@
-import React, { useEffect } from "react"
-import PropTypes from "prop-types"
+import React from "react"
 import styled from "@emotion/styled"
 import DirectoryItem from "./directoryItem"
 import Fade from "react-reveal/Fade"

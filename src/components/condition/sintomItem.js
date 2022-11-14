@@ -1,5 +1,4 @@
 import React from "react"
-import PropTypes from "prop-types"
 import styled from "@emotion/styled"
 import RightArrow from "../../images/right-arrow.svg"
 const Item = styled.div`
